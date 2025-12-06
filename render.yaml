@@ -1,6 +1,0 @@
-services:
-    type: worker
-    name: lllhub-lua
-    env: lua
-    plan: free
-    startCommand: lua PickaxeSimulator.lua
