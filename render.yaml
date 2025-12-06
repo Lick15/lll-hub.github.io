@@ -1,9 +1,6 @@
 services:
-
-  type: web
-  name: lllhub-service
-  env: static
-  plan: free
-  buildCommand: ""
-  startCommand: "lua PickaxeSimulator.lua"
-  
+    type: worker
+    name: lllhub-lua
+    env: lua
+    plan: free
+    startCommand: lua PickaxeSimulator.lua
