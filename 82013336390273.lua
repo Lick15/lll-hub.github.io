@@ -1,1 +1,332 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _bYIsMweEZkXg = a; end)); return(function(r,...)local l;local t;local o;local f;local z;local u;local e=24915;local n=0;local d={};while n<725 do n=n+1;while n<0x2e6 and e%0x48da<0x246d do n=n+1 e=(e-938)%28752 local h=n+e if(e%0x3c02)<0x1e01 then e=(e+0x57)%0x639f while n<0x9b and e%0x1d4a<0xea5 do n=n+1 e=(e-979)%35908 local l=n+e if(e%0x49ea)<0x24f5 then e=(e*0x23a)%0x8ba1 local e=71266 if not d[e]then d[e]=0x1 t=getfenv and getfenv();end elseif e%2~=0 then e=(e+0x22f)%0xb09 local e=91471 if not d[e]then d[e]=0x1 end else e=(e*0x3af)%0x6dae n=n+1 local e=19582 if not d[e]then d[e]=0x1 t=(not t)and _ENV or t;end end end elseif e%2~=0 then e=(e-0x1f)%0xb82e while n<0x2e8 and e%0x29f0<0x14f8 do n=n+1 e=(e*550)%20655 local t=n+e if(e%0x1a8e)>=0xd47 then e=(e-0x18b)%0x76fa local e=50131 if not d[e]then d[e]=0x1 o={};end elseif e%2~=0 then e=(e-0x3fc)%0xbd53 local e=62249 if not d[e]then d[e]=0x1 z=string;end else e=(e-0xc0)%0x1e56 n=n+1 local e=97434 if not d[e]then d[e]=0x1 end end end else e=(e-0x3c5)%0x882e n=n+1 while n<0xd2 and e%0x4bf2<0x25f9 do n=n+1 e=(e-295)%43656 local h=n+e if(e%0x27ea)<0x13f5 then e=(e+0x2c3)%0xac4e local e=21175 if not d[e]then d[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\120\83\65\88\73\85\98\87\0\6\115\116\114\105\110\103\4\99\104\97\114\89\101\106\66\72\119\77\71\0\6\115\116\114\105\110\103\3\115\117\98\68\70\83\74\109\85\90\113\0\6\115\116\114\105\110\103\4\98\121\116\101\89\114\88\80\69\113\77\95\0\5\116\97\98\108\101\6\99\111\110\99\97\116\66\81\67\71\122\67\102\108\0\5\116\97\98\108\101\6\105\110\115\101\114\116\76\117\122\76\119\99\101\118\5";end elseif e%2~=0 then e=(e-0x172)%0x352c local e=24290 if not d[e]then d[e]=0x1 l=function(l)local e=0x01 local function d(n)e=e+n return l:sub(e-n,e-0x01)end while true do local n=d(0x01)if(n=="\5")then break end local e=z.byte(d(0x01))local e=d(e)if n=="\2"then e=o.xSAXIUbW(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then t[e]=function(e,n)return r(8,nil,r,n,e)end elseif n=="\4"then e=t[e]elseif n=="\0"then e=t[e][d(z.byte(d(0x01)))];end local n=d(0x08)o[n]=e end end end else e=(e-0x1f6)%0x73a3 n=n+1 local e=56943 if not d[e]then d[e]=0x1 u=tonumber;end end end end end e=(e-607)%47261 end l(f);local n={};for e=0x0,0xff do local d=o.YejBHwMG(e);n[e]=d;n[d]=e;end local function h(e)return n[e];end local z=(function(f,z)local r,d=0x01,0x10 local n={{},{},{}}local t=-0x01 local e=0x01 local l=f while true do n[0x03][o.DFSJmUZq(z,e,(function()e=r+e return e-0x01 end)())]=(function()t=t+0x01 return t end)()if t==(0x0f)then t=""d=0x000 break end end local t=#z while e<t+0x01 do n[0x02][d]=o.DFSJmUZq(z,e,(function()e=r+e return e-0x01 end)())d=d+0x01 if d%0x02==0x00 then d=0x00 o.LuzLwcev(n[0x01],(h((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+l)%0x100)));l=f+l;end end return o.BQCGzCfl(n[0x01])end);l(z(21,"Y23=X1IPo^.l4}8!!N"));l(z(244,"Q^ltjix_2;WkATopGA^o;_WjWok^AlA__5TAp;pTXAl*4oloETtotjjWil#A^;;#2p;;kUkAW_WkToAiopCS%A^ikTATjjiliixx_2xt;^_tW^;pk^A0Tl_v2lpk 2^l^ilxlkTij;j;x2xt_jxT;A_WWWW_WAW;Tt_222pTpT^A^AAit2tAj;x2xAxo_x_x_>_;;jA2WixA27ptp^uA^^^ithl;j2j^joxjx;_i2A;iW^2_k_AAkk_j2tTop;Utlul_tx&tl2ikx_itxjikxp_TjJjAAkA^TioAA;ptTT^Al;y;jzjHoxp^ti_jxj;j;kW_WTA_AAxA_Apjpk3k^2lllitxtktji2jr_;i;xjxTWAjGi^AAAiTlo2oT;W^i^Wl2littj_tixtiti%iT;x2t;jjAiWTiTWo2oipt1_^j>x^xlk^otxtAx_eA^;;?;oW^klAjWjT;kAolpTTW5o^;AvAoj_jii2iTx_2j_l_WWAWk2oAxATAt_A2Az^/^l7lDA;txj2i_xt_lxo2^2T;x;xk_kokp_^"));local e=(-3823+(function()local l,t=0,1;(function(d,e,n)e(e(e,n,e),d(d,e,e),n(e,e,n and e))end)(function(e,n,d)if l>387 then return d end l=l+1 t=(t-896)%33956 if(t%1024)>=512 then t=(t+63)%24362 return n(n(e,e,e),d(n,d and e,n),e(e,e,e))else return e end return n end,function(e,n,d)if l>190 then return n end l=l+1 t=(t*320)%33984 if(t%610)>=305 then return d else return d(d(d and d,e,e and e)and d(n,e,n),n(e and n,n,n),d(n,n,e)and e(e and e,e,e))end return n(d(d and e,n,n),e(d and e,e,e),d(n,n,d))end,function(n,d,e)if l>446 then return e end l=l+1 t=(t-540)%13805 if(t%784)<392 then return n(e(d and d,d,d),e(e,n and d,n)and d(e,e,e),e(n,n,e))else return n end return n end)return t;end)())local le=(getfenv)or(function()return _ENV end);local h=o.lRV_FRLk or o.MoSDErSX;local t=2;local g=1;local f=4;local l=3;local function ne(c,...)local s=z(e,"m0+Nz?L& 8G3T9#Ez?N+T3LzE#GN+ET L0zTE 88+GT3?8E?83xTTG?9E388T0? E0 G+N3T??0+T&+0TL?+#3 zz # &909T#NGS?30z&Er i+z30#N +0zG9zLN+#z&GK#G z#G&oEGTz(98&+?N_8G8z+9#58G NG9NLT?8B98#N&9?L&T#N?TELLEE8 LNE9Lz0?8?+#T&G9L D0880&T+?8##&3N?TT?TEG TN08E?8#9 L+YT++#EG8N+G?+#E N0T3?GCz ## 40&zT##&90LGE 8?L## +TT  zG9 &80LzN#L&z=9GL NN9#z&#0?G3z# #z#0?G+9NLTCz89NL;0L8S#8GNNTT8^NNT&LvNz +z9E8 EN T LTE8+3T9?TE? #L9+ET??LE^8L_33&?T#9++TL?N#T ?L00E30?&#8 l9zGO?L#z&90?z3#?&T0?G#& 0z&G0LG3zz999T&3O8G 93&zFTG?N#-E&00zG+N39z8 N3TE? +NTEL?A#8#z+TE.0G?N+T3Lz+ T3?ENN 0zTE  #N&T&L3E +GT8?3Ez 9&G+#3E? EL  #9?LE? &+t388G?EE  9E93z?T +++3NzT#?3E z0?39zGEz &+0z&#3& 00GGL#o9TL&+T&8+N#9z&9}930N#&s0LG0NG9N8&NGT#L&+09&++#988+E9 L UT88T3LEET8?+#*G9+?#EN8E+83dL+E  T+LTTE? T+?3#?&E; 80+EG??#E L0E3  ++0 z093?z##&3&0G3zz3#z&9z&#zz8#N&G0NGT& 0+& 0TG8z+933&&EH3G_zT9LzT0 3*z899&?G0N99+L3!z5z8&NTT9k+G0NNTTL?z#pN80+TT&zzE +#T ?EE 80?TET?9E3 #+&TKG+L550 9N033Eo8++03G?NNN#G8+aG3??3E  z0&3+#& 00 30zG0?G#0LGEz&#p&8z GTzE99&LxE9N&++#8N?#sGGCz898&9nGNT9#L9AL8ELNI+ G??c08&zD9C&z,0NNTELzE98L& +39sL 8zN8T??#E&33?GE+ 3z G9& +z3GLNEN8&+z?LE8 &+u388#?G#&&#++8E?z#+8N0 3##L G0&3%z8?}#G&9033Tz #T&L0LGTzG#IBE3tzu98&+?z0+Gyz 9z&?ILG z&L9008#N&9CGT&zn}8?z0T3?L}08E+#9+&N8?+#T L0E88++3NT?#A+ E+ T0 ?+z3T&+9#G8??#38z+zT ?? &+#3 ?0#GTG #0L3MN+#?8+E 39?N#GL80 3TzL&30EGTz?9#3G& DG31z+98+9EGG&N99#LEGzz89?L#:&T3L3R&83LE39  NzTG&NKNG&NzLLX38&NhT8 9N_Tz /NL&EzGEL TN?T?L8EL+ T+?8E+ 3?LE??&0L  +03GG&?z##809&3L?+## -9zTzz&E+N +03T?+Eo&G0033z?99N+++G9?09#+EE?3{z8#0?E_GG0E&TLNTGN?&9zL9cL<3GzN9 Gz3E0&&###N+c#883+TT&L E&G&+9 0z9ET88NGTG? {z8 Nz?T%K 9+L3E88LLE#8+9TG&?N#88+++TL?N ?+83LzE# GTzE# TzH?9h&T0+33z3#E&TG#?09E& 00E?G ??T &N033zz+#x&+0&N#9 LEM G0L9=LL90+8#N&9{GT&z-58?z0T3?+E98zN#TTL3_N+ET LKE88+&LT?L+EL E+ 0?T+? E8 G3E?3E. 8++W 3??LEz+/T??0#G Nz&#L&#0&#3N8/z3>zL#E&E+N3}#+&T0NGTz?0xG#003Az+93&zLon&3?N93TLE0TN999L#C&G} TNG9G&3E083z&9T4+G9NNTTL?z0qL8#+ET3L+A88E+&9NL0Il8 0L39L3E&8?+&?GEz 3+z39 8+0 8+N3G?N#T3L?L3 ?E#8 +03s 3Tz9#L z0L8E+TT&&G+&G8z8#&&LGT?%99&LHE#33LzT#?&00N3++990&?0&Gf9?LEIL8EN wNGa6zG N?T#L&zTW 8N+ET9L3E9 NN09?LLE +9TT?#E&8k& N+TE?9ET8zN+?8E  G+N3TG8?9## &+?3&09 z0#3&?&#  00GEL3 ?zE0&T9g8#z3&T+rG9zL9E9G GTG8&zz9L&TKT3zz&9N&EG?z#9LLEV #+GEz&93+?#0GNN09+LE33&&N?T3&+DTGzT3&+ET8?+#0NTE?GEL8zN+Tzz8Qz GN?TNL&E  GTi?&E= 8++33?zn8TL+b3G?0#G Nz9#?zE## e083+8#?<#L&G0z3G0+&30zGTz?9#G 00G9z+93&z?30?3NN9&+UTGNNT9?8EN G0z?9+L3JzT L&EE9N+0#T8 +#9&L&!38 TGLEE38z+9E08V+ T0&&#NG#?GEx88+8T9?G T+339?L#EEz 9+L&NNzEG -3 ?z#8 +03C+G#?N#z0839zG#N&Tzl#j&T+988Lz0qGLzE9E N0sz+#E&NXTG?&EzT#z& T+ 9N8TELE00GTN8 G?LP0G0NNTG&zE#8LTTL#E98L+ENz9h?3E&8EN89hLlE#8QTNLLEz 9+Ls&38L?#9 39TG ?##T ?09?NE  z093L&G0930L30&LTN&#N&8++3+?L#N0?3&zL9E& ?TWE3TETT  &0G3zN#9EMTG9N99LLEzT0NG8zN9Y&z0?G?Z+LG0783NzT9G8&0E98+N#T zIZ&89N&TzL _888T?L?EL E+ 0zTE??6R #N+TN?? G+T33?z#930?z9 GNzE#? #0#T+zE 0+_3+z3#z#8 ?0jGTzG# &GG9z99#&&0o#TGNz&#qLEe&G+zN&+vTGNNT9?8EN9G0zL9+L3gzT L3EE8 zN3G ?N0T&&1J)GzN0LN!z8z+9TLGNLGYc8G+&T3LTET? T0?3E+ 3+zEp LE;8z+03G?N0&3Gz##&&iN3#&&9+L3L?G#&0839zG#N&TL 0N3Nz?9T LT38 z?93&T(9z+#&&N}TG? 0zT#+&3t&G8z 3T&L0NG0zs9 yzG N?T#L&+3T#L+.9 zzEE380NGTGL#E3+9T&?#E&8b?GEz?TEE 9+L3E N+LE?zN7#3G?,E8 8+93G#T 3093LzE+T#G 90L33?&#+0 33z8#+&3NE9#  EETG&LvT3?z?#8&LG z898&+R3#&GEN39=&TUL #NzT#l&9#9&#+?3TEz4SL(EL&pL8 N0TGG&L0E3 ENTTTL98NN+Tz?9EL9E8z++9N? E#8 3ELNEc 8++#L ?z1ELNE*G3LzTE? ?+83L#8 l083+z3#z&90LGEz8#N&G0NGT&&0+& 03G8z+938EN#00?E+G9LLT0?G?z89LK G0N89+L3N 8#N8TEL r0#?8 z?L EE8 N:T8L+Nj8?+#TL?EE Tz+3TE?TE? #&z+8T&?3E8 399G8?E#9 L0#?zEN ?0#3&8??&#N&9+C3+zG S0E30zG#NTE&G++33z8#&&8GTL#99&LFEEL3:EG#a&008GLzL9z+800G0Ez9TL 0N88NG9 LTjG8T##93L E#?+NLT8&L3L8 N3 0LGX?83N3T&?3E? 9TNL8Ez 9+L#G G0E3E&z+G&?z}#T ++333?E#T0#3 zE#  0z9#zz9#9&#0&3B8#?^#E&9+03+zz9T0+3&zN9T&?L9H888++#?? 03G+03T8&NE8G09z&N_?8#N&NT9?L#33&T++G f08 N0LGzTGLz 0#{ L0EE8++3Tz3-L3E? #+G9+EzG +?3#?&? E98L+3T&+&3?z#+33G?T#T80+ &T?z#? &+&&G?L9# E0?30zL#L&&G9?+9#&&0r9z&zr8G8& TL80N99N&TMT3<N9LE0NGWN89+G#&LI+8&zNT9??d88GNN90LN8 N?T8L+E3938E+3TzLL8+N TN?TE?#0 T+T3#??EEzz%E33N0EG G+#33#9 &0#3&?e0T3&0T3?z9#L&E?03+?+#N&T0?Ez3CzT9#Ly=T30z+&&00G z09GG?z0GLzN9&&;d8##GzN39?&GGJz090LGsN#&8Gz&3G&82TGLNa90E#G?+ET L0N3} GjNz&#z8E?G/+NT9? G9L3+L3EE+8L+N3T??0838??#8&+N9#8&E+ 3 ?T#8033?zT#?&#z8#UzG#&&30zG9  z3#& ;0&zz#0&?4#G&8zz+#L&&i8N##?LEu G0 &z 9 &8D&G&NTT#?0P3G NL9?L9h3N+#5LNET8?&+N69N?GEz8&+8GE?&>  #+G3E?EER&?NrTL?9E88L+#??E  L0E3 &T039_NTw&3Nz8E+ ++L3N#? G0LGEz )TGEzNE93NE#T8&?o33zzz# &?G&z09 &0PG9?L99L&L^&GxN8+?9=&LR+GzN 9T&G83NETTL?E#T+L0E88+03#L8++ 90L0f?8+Tz?#E? #+&E08+EN 9+z39?L+i33++TL?N#T ?z8#8 ??zG+L908GE? #  T08z3E0&T0?G#&+00G8z+E#3TE9T &znG3NzN#&&zGL?+9&&CJ8#LGzz&T#L r3890N9ELTQ 88+?T &+J&83N8T3&v8&NNT L0EG988 +LT?E 8?+8T+?3zNEb 3+ZTLE+8?+N3T??0838?698Gz?Z#L E0ETN?r8+033NzT#?V?0&3_z8#N&30zG9? #T& 00GGz39T&?h#38zz98&+{3+#N99LLE+#3?NG9NLT%38#N 9IG07+8Ez3T9LLEE8#N0T3LNET3N+#T&LDEG8++3TzLElN E+ T0&3EN T+?9#TcE_ 8++33?zHE Lz?9+?0#G N+&3?zE#&E&083LL+#z&90L3Gz #+&G0&TNz?9#&&+WGGzN93 L0GGLNE9 90OGGNNT#&G9)&G0N8ENL3)z89?L#TL r+8GNzTT&3E#G8N9T8L?E3+++9TL?EE 88+GTz?TE  #+&T{?8E3 3+z39?L#E G+03GLT#T ?0#3 ?,#3 +N339z9#&&E0 30&8#N&T0EG#zG#2&80+3 zzV9  _EG3z0N&&Nz?G?L#93&%ITG+L?9z# 4LTEzG90L9vN# N?NLL&N_8GN+T#Lz?U8L CT 80IT8N+ET?GNE&03+8E+LzEz8)+LEE? L8 G?NTG??E0 &L83880#33z++3L?+# +70G#NzT0?8+0&3Nz8 3&3zzG9zL#0& 0?GGzN9T& q#9&?L98&L,3+ N9rLLEN 3NNG9&LT0N8#3&9R88kE83N T9E3EEEzN09GLzET8 +#_9LFE98++39G?9EG E+ T0?9EN3T&#3#?3Edc9++#3?z09 E0E3T?0V# Nz83?&#.5 =093+zT#zTT0L3Ez #0&90N+;z?#+&&zVT+z+9#&zG?GLLE9 &00zGNz{9?L#_&G&N8J+&9hzG0NLLTL  G8GLN#!L?w+8&8LT8T?E3Tz+ETLLNE #8+Gz8?T+?8L+&Tz?8 & 3GN39 Lz   +?3G8&#T9z0##&?N#8 L03#&z90L&E0 09zG# &T0LG#z&#S 3+zG3zG99&3WEG z09G&3=TGGN#99&.%GG+z39zL9*G8E3&90LEcNGTL+T#LGXF9?N+TELzE9GE+ET8L0E98N+#T??#008>+3T+?9Ez 9+L3E?8E0 9+N3T??## &N+90?+#E zN#3LzE# G0+#3N?_#? +0&9?z8Ez8N0z3NzL? & 00GGzN+T&?0+G&zL98&zK3Tz339L&z% G?NGEELTY?G N&9LL8Y+83z9T98L0T8 N&TG TET#T+#E&LEE88 +3+3?9c+ E? T+?GE8 T903#98Ea38N833?G#9880ENL?00G8G0T33z# 3 J8G3+&3EL&90TGE#+#0G00N9TLh9#&90f0&z+E &zN93+NE9#&0 &GNz#9?8#0NGZNE9+EGZzN0NLEE&G;0G}NNNEL??N8&L_TTL+X08z &TL3 E T0z0TNL+E?N?+&N+?8++G?+zTN?L4N  T&3G NE# ?+z3&8+#88+03#zLB#L ?0 #LzG<0&Tz?3+z&#L&80EG3G#99GL0EG z&9G0N!TT0N#w& +p8G N39&L9z#8EL #8LG788TL&T#,TYOT8NNT3LGE9Ez+ELNL0+GG#+TT3?#?+8gT3T+ 3IL 9+T3ET9E03Y+N#T?### 9+:+G?+E+ zz9TNzE## 0 ?3NT #?G#+93ozE#+GN0zzNzLZE G003/zN%&&??8G&&o#3&+00Gz??9L3+U 90z+9N&+6?IoN&P&L8N+89Nz9NLL L8 ?zTG8Nv#8?NzT&10E8EE+3Ez?EEL8?+ 9G?G&3 T??9L?&EL 8?93383#93L+E3 ?&#G+30TE+z#0&98083 z3?#&9N?GE& E&&G08GT&39#1G0QT8&393&3R9G&NEz#&00T:9NT9#L#z GWN89+&9L#89z<TEEzp08GNNTT9&E#8#Nw9NL+E98zz9TE?E=X80N0TN8GE?G_zNT_LNE+T?+z39?L#EGN+0T+?NEL ?+(3&&I#G ++z3zz##LE?0 TN??#N &0?NNz&#Y&8+zT(zz#8&L83G z09G&N?TG?z&9&&T18GzN3EzGz,LG8N 9 LGL 8TN?#GL&7T88N+T3LGE9TLNET L9EGE=+T?&?#E&8E+8TE?379 9+L3ELGE9 GN03T&### &+fT3L9#38N0909zE#  0+T3GzTE?&#TN3wz8#+ 9zNG9?&9E 300GGzN##&#;#38z_&9&+p3GzzE9 LE03G09z9NLTV?3kN 9D&9O+I8NzT9LL003+N09ELN&88?+#T&&+vL8+z0Tz#TEL E+ 9N&?ENGN+?N0?&Ea 8Nz#G?zq? L&83 ?0#G8?+#3?L&#&+&083+z3EL&E0LT8z E?&G0NGT?&E?&&+3G8 z93&zp93 zT9  9ZG9 NT9?L#083NN8#EL30089NLTE&GUT8G?0TTU?E#8&N69380E33N+9T8?EE 80NTT9?T0? #?8Ta?8E+89+939&&#E#L+03G?NE# T0#98?gzz +033z?E#T&EN3303E#N&T0?Tcz9#r890+0Tzz99&L+0TPz0EE&N&&G?N#9& +N G+L09z8?{L8EN #N&T.NTNN?E8L&,B88zz#2Lz+?8Lz&T L0EGG?zNT? &E&E++8T+?3kLGI+L#8? &  G+N3TL&Ez &z338EN#3 z09T ?3# G90GTTzT#?&#+8E9z8lE&3zEG9zL9E G03GG&09T09W#G&zK#3&T<39NN9?VLEd G0zT#3LTN?8#L99YL8e+83z&T9&NEET N0T3LNlT8?+#9NLkzL8+N Tz?9L+ EN?T0?3EN T+?9:&0EU8&++#z?z#9 L0ETf?0E& N+G3?zE#&8y083+?&#z#90L3Tz 009N0N3 z?&T&&zaG8&+EU&z08GL?B9 99gGG8z 9?&3)&GzN89NL3dL89NL99L I08GN?TTL?E#8&N#T8L+E38G+9TL?E{ _3+GTE?T?# #NzTK?8E& 3+#39L+#E G+09GLE#T8V0#3#?y&8 +033?z9EN&E0 30z##NGT+TG#?z#J9L0+qGzz{9 GjE3?z0+z&NNTG?L#9E&:0LG+#?9z +pLG?zz90& xN8EN?TEL&2+88N+98LzE98LN+T L0EG8NNGT??#E&8++8T+?3hz3?+LTT? ?G GN03T??.0 &+338?E#3 L093LLN#  90G3NzT#?&#08+&z8#E&30TG9zL9E8  ?GG?09T&T(##?zy#3&&O33zN9#dLE2 G0NG#?LT0N8#z&9cL3=+33z8T9&?EE8EN0?GLNETGq+#9 LdE88++ETz 9}? EN8T03&EN9#+?##L8E)8G++c??z09 LzE90?0E3 NTL3?8T#& L+?3+?9#z&E0L3Jz #N&G0N3Gz?9#&&0TG8z+93&z03GLNE9 &#WGGNNT#?8Lk&30N8N3L30L89NL9 L 0b8GzzTTL&E#8&N&T8&+E38z+9TL?EE#89+G9z?TET #+ Ti?GE+ 3N+39?L#E8 +03G?NE+800#T8?>EN +0T3zzE#L&E+L30zG#N T0?G#z&#; &0+G3zz#+&LsEG L0z &N0EG?z?9&M1l8G+z&9z +PL8EN 9?LGNN8#N?#NL&?988T3T38z0+8LzzT G3EGTN+TE?L E&G?+8LT?3EG 9+TT3? ^& G+T3T?L## 8+c38Lo#3 z09T zE#  00GT0zT#?&#+ 3:z8#+ 30LG9?39E#000TjzN9T&T!#3Gze##&+g9Gz?999LE0TG0z09NGG}?3vz&9V&EK+GGNzT9LLEE30N09#LN0+8?N^T& If#8+zrTzLzELG8+ T0&+ENGN+?3#?&E& 8?+9z?z7z L&T3 9z#G N893?LL#& +083+z3EL8+0LT z ET&G0NGT?&EA&&+GG8zz93&zl9GLzL9  8(G39NT9LL#0&GsN8#8L3u989z#TE8 0N8GzGTT8NE#3+NPE8L3E3G3+9?N?E+880?G9+?TWT #&0T1&zE+33N?39L9#EN++00J?NE+800#TE?4#E +0T3zz##L&E+L30zG#N 00?G#z&EQG20+T+zzzL&L+&G z0#L&N+0G???9&&+<8T+z09z NlLGLN #3LG(NG0N?#LL&>;88N8T38z0+8Lz&T 3#EGEz+TT?LEE&G8+8Tz?3Ez 9N Tz? J3 GN#3T??##88 G38L9#39 093LzE# #L0GTTzTAy&#0 3_?8#+&3+TG9zE9E80009G??9T 9=#9?zJEz&+N339N9##LE8?G0L39N8T+^8#zE9P3NU+3LNzE9&TEE3yN0&zLN^V8?Nz9NLZ0+8+NVTz?#EL8S+ T0L EN T+?TN?&E_ 8N+39?zj? L  3 LG#G NN 3?Lz#&8 083zz37z  0LTLz #G&G?0GT?&9E&&+8G8&L93&z%9GL?+9   QG3TNT9&L#+&GNN8#GL3i98983TEL H88Gz9TTL?E#89N=E8&3E3G#+9+N?EL&80+G+&?T0^ #+#T,?8E+89N?39&+#EVM+03G?NE#8+0#9z?Vj. +033z?E#&&ENL30#L#N&T0?TyzE#}8 0+NTzz99&L+03Ez0EG&NGNG?N#9& ++LG+?T9z0 AL8EN #N9z^N3#N?&0L&<X88N+N:Lz0 8L?0T L+EGGN+TT?& E&99+899?3EzE8+L9G? E+ G+N3TL&p3 &NT38TG#3 z093LL8# 8T0GTEzT#L&#+&3(z8ET&3 zG9L09EG LGGG?99T0NX#9&z5(8&&V33#N9#&LELTG0zc9ELT+V8#N&9dLG>+8TNzT9&zEE8 N0T3LNET8?N#T8La0N8+8zTz& EL EN0T0&+ENGL+?T)?&0uGC++9z?zEL L?93 LNt4 NN&3?8##& U083+?z#z8L0LTGz #N&GNN3?z?E &&08G8L+93&z0zGL?39 &0(GG?NT;? &/&3TN8+EL3bE89NT93L 0#8GNzTTLLE#8 N}T8&rE38z+9TL?EE 80NG9z?T00 #8_T7&LE+ 3z039&j#EGz+03T?N#T8T0#3&?K#8 +033zz9;z&E0 30z3#N&T0?G#?+#*&80+GEzz99&L063Nz09G&N?80zG+z}9L +ELGNN89GL3G!N990LG.N0*8LN49NL?83N+T3LzE98L+E3 GhE388+TT??#L3w888+&TG?G8T+L3E? vN8&+N39??E+ &+c38?+z+ z0E3LzE#  00G3N?z#?&E0&3+z8#z&3NG09zL#*& 0&GGzz9T&&R#G3?&98&+73GGN99&LEZT3 NG9NLT%#8#N 9x 80 83N?T9LLEE83N09- 8ET8L+#90LqEG8++TTzL0h9 E+ T0LzEN 9+?3#G#E2 G++33?z#9 L0Ez-?0#T N0T3?z##&Gr+E3+z9#z&E0L3.z #0900NGEz?9E&&0<G8z+-J&zsEGLz09 &+CGGN?G9?L#(&G0N89+L3,?89NLTEL K+8GNNTTLLt?8&NcT8GLL(k&G0N T#&08?+GTN?TE?0L+&T2?8E+ 3+z39&L+   +03G?N#T L0#3&&?#8 +033Lz9#&&E0 TEzG#N&T0LG#z&#F&80+G3zz99 8-EG z093& gTG?N#+&90&8A&G99? ->L8EN 0z9LLzq?G+NNT3NG38&L+TT9L8QE&+NeTLL9d&+990?#E&8s&+Nl90LNE  30+39LNaY  +#?LE  &+o388LzT#9 8+E8+?u#L 9+&z9Eh&#0&3: Tz#9T&90GLL++#2&L093&99&E>#G&z<+(9&&EE&G+z #?&0qz8E9?LTf?8#N&9BL8DG93N?9zLLEE8  N+E9gL3n88NNGL0E98++3TzTz?&ET 9T+L9EN T+?=0TN?0E+ E+_3 +&GLLL+GTq?EEN?E093N?GEz0G3#z3#z&9L90j30??Tv +0#  zL#!&T^9zN#T&z19GL80N9#0&L/T8ENL#+LTAz TzL9G&LE#89NzL8008GNNTTTz?9t88?NL90LEE88NN3T9?3<?8NN+TGEL8++&T4?8LL#T8&+ ?&Ez  +03GTN?### T+3?0#9 +033zTzz&#  T3+?z#N&T0?E?38zE## +##GTz+#8 NG8z&9G&NOT0GGTz&90LT)9N9P&GlN89+L3qzN9z+# N?T#L&dd9NN+T3LzE98L+ET L0 +8N+9T??#E&8^+8T  0Ez #+LTz? E+ G+z3T?8c? &+*38?&#3 ?093GLL#  00GE#zT#L&#0&N z8#N&30?G9zL9E G&3GGz?9T&8v#G&z%98&Gd3G?N99 LEqGG0z/E#LT%L8#?G9:LG<+83Nz90&9EE8 N0#9LNE98?+#90LjEG8++9Tz?9ELG08+T0?TEN80+?3#?&S+EN++3#?zE0 L0E3 ?0zE N093??0#& 008Tz? #z&E0L3 z #0&GNNCTz?#F&&0+G8z 93 L0GGLzN9 &9cGGNNT9? Nl&G+N89LL36L89?L#TL =N8GN?TT&FE#G8zNT8LLE38?+9TL?EE 8&+GT??TE8 #+8TM&8o? 3+L39? #E8N+0TT39#T 80#3E?c#8 +03#+z9# &E0T30zT#N8TN+G#z8#A&30+3Lzz#E &=EGTz0#&&NqTG?N#EN&*b3G+NE9zLE:L3Ez#90LTKN8#N?90L&0+GEN+TELz7E8L+ET L0D&8NN0T??EE&8h+8T+#0Ez80+LTz? E0 G+N90??E: &+X38?N#38LN&3L?0# 8R0G3NzTE&880&3Nz8#z&30zG9zL#z& 0NGGz?9T&L_#38z998&NV33+N99LLE+ U NG9zLT7L8#z&9X&3:G83NLT9&8EE8 N0TG&0ET8L+#T8LlEG8++398?9E& E+8T0?GEN8#+93#?8E)8G++33?z#9800E38?0#T N0#3??zE+ V0G3+& #z&#0L3}z #?800NGTz?d3&&00G8zLE+&zx9GL ?9 &+>GGNzL9?LEW&G+N89+L30Lf&NL90L uL8GNNTT&&L 8&NNT8&NE38z+9TLTzE 8++GTL?TEL #N8T9?8Ez 3+939?L#EG  03G??#T &0#39?kE38&033 z9E+&E0 30zGE&&T0&G#z3#_&30+T3?D99& KEGGz0#?&N0#3TN#93&;lGG+N39zL9J&8ENG90L#VN8#N?##&GQC83N+T9Lz( 8Lz0N+L0E#8NNzT??#E&8p?&T+?9Ez80+LT0? 008G+N3#??E{ &+338LzE9 z+03L?T#  00G3N?8#? d0&3zz8#z&3NzTLzL#0& 0NGGzL9T &++G&zz98 z:3GzN99L zZ GLNG9zLT2?8#N&?LL8rL83N8T9LLEE8 z3TGL?ET8?+#T LOP3GT+3TL?9H? E+ T0LT^L T+ 3#L0E< 8++33?L#9  0E3G?0#3 N+#T+z##  _+&3+z3#z89+TGEz8#0&30N3Tz?E:#00KG3z+#+&z<9GLNEE9&0<3GNN#9?LE^&Gz?O9+L3Yz8#NL9PL k03 NNTTL?EE8&N}T8LNE38z+9TLLEE 80+GTzL0E? #+&0x3GL+EP8L3#?3#E  +0+GT???EN8+3G?0#9 +033zTzz&#  T3+z##N&T0?++G ?N#z0N30zz99&L z0L30N39L&&GLz 9&&xw8#8GRz TSL300G#NGT9L 89NTT#L&r/#38&+9T9LEAG8&T8L?EG8N+T+T3ELzE?+G9N?3Ez 9& +zT ?9EN L09T8?N#3&N+9T0?9#? z03?:Ez 00G3N8??NEz L03G#N?#y L+NG3?0&809GGzN9TTTLE013z0E#0&9#&G?NE93LTG+zG9NLT{?E98Lz+T#LEcGG N+TT&z{L8zN#TTL3XN+EE0LaE88+/3&9999Lz&T9G00+GGLT99L3N&G >G^+&N9TT9N#9+8 F8 NLN9z?T+#8E08E8LGTTTzNL8# EU( #?GT3z?zL#?&&0*G88zzH#0&T0GGzz3&+0+GNNT9?#+&LQ#G#NET9L8gE?#TEL S08GL9TTL?E#8&N>T8L+E30T+9T&?EE 80+GTNL++> #+ Ti hE+ T+z39?LEN8E+03G?N0N ?0E3&?,&0 +0T3zz##L&E0 9& G#N&90?38z&#0&80?G3z Ez&L1EG zT9G&z,T3&z39&&0Q8GzN39zL90 h8N 9NLG008TN?T#L&+?88NNT3LLE98&+ETT& EG8N+T#T?#E 8{+8TT?3E? 9+&3E? E08Tz93T?&## E+C38?+E9 90938zEE  00G3NzTE0&#033{zG#+&30zG9?89E&300G#zN9T&?b#GGz%9G&+r3GzN#9L 00?G0NT9N&?.?8#N&EJT8,+89NzTELLAL8 zN#NLNJ48?N T&LwE88+z+Tz?EEL8N+ TN?G0NG0+?Tu?&E+ 8+#33LLVG L+N3 ?+#G N0T3??+#& +083Lz3#L&9NLTTz #N&G0?GT?09# 8&GG8zL93 NS9GLNE9 8EYGG?NT98L#f8G-?8#9L3_L89N TE&zU0GTN TTL8E#GzNPT8L+E3G#+9T ?EET80+TTN&TE8 #+8T2?3E+8L+zTEL+#E T+0Td?N#T ?0#3T?I## +0T3zz9#L&E -30z##N 00?G#z&#B3L0+G9zz99&L0%G ?N#3&N}#G?zN9&&5{8T+zz9zLEnLG0N 9?LGRN3?N?9cL&Q088NNT3L 008L+ET L+EG8z+TT?&TE&8w+8TN?3Ez 9+&3E? E0 G+L3T??## 8+138?+#3 z09GL ##8 &0G3NzT?8E& &0?3 z &T08G9zL9E#T&+xTGEz0 z)#G&zx#3&E-3G?N99 LEf G0NG+GLTD&8#N&9/L8_+83NTT9L&EE8GN0TTLN++F?+#T L)EE8++TTzL!EL8NNET0?GEN8++?3E?&EzGI++33?zE& L+Z3 &0UB N093?z##& 0083 &L#z&#0L38z #+&G0NGTz8E?&&0qG8zT93&?B9GG?L9 &0/GG#NT9LL#c&E&N89NL3Zz89NLTEL  88GN?TTLLE#8&NFT8&+E38L+9T ?EE880+GE9?TE& #+&T}?8E+ 3z+39?L#E 8+03G?N#9 ?0#3&?>E+ +033zz##3&E0 30Gnzz#  G0Nz #G&80+G3 TN##G&+0y8zzG9 &0C8NE93&>_8G+ 8N?9GL3Grz+90LGJN#N8Gz+3GL?M3G NzT&L+8&N9T L0EG988?NNT+N9E883N?TEN&E? E+33TE+8++N3T??NN## &_TTLzTE 8F3&LD#  00Gw?30??#G Y0NGG?L#I& *i3Gz##G&+00G 99&G>#G&zp+T#LLT0 3H9&&N> G0NGNGT9&+5N?,9hL8l+G9&KT9L&EEG0N0TGLN0T8&+#T LoEG8++ETzLEdz E+3T0L0EN T+?3#&NE^ G++3#?z#E LNET&?0#3 N093??L#&GFNz3+zT#z&#0L3zz #0&T0NGEz?9#&&06G8L+E0&z0RGLz+9 &znGGN T9?LEY&GNN89zL3{GTNNL9<L V98GNzTTLLE#83z&T8L+E3GS+9T&?EETG +GTN?TV9 #+ T6&8+3 3+L39?&#E 9+0TT39#T 80#39?F#8 +032zz9# &E0T30zT#N +zwG#z8#1800+GTzz99&L0N3Ez09G&N+zG?NE9&8{z+G+N#9zLE5LGzN #N9zcNG0N?9pL&H)88N+03LzDW8LNzT LNEG88?+T?L0E&G&+8TN?3E? 9+G9L? E0 GNG3T?L## 3N&38?+#38T093&zEE  00G3LzT#L&#0&3nz81:&30zG9z&9E& 00G3zN9T&?-#GEzR98&+}T3?N99LLE?GWLGGNE9?L EEG3N?T9??xEGNNET&LLE9N+T#LNET8?&T+ T9?#8N+ETz?9ELEL 8+#3EEz8L+?3#?&N&##8LP#38?EET  033L#38N0T3?z#Nz#8 &0338z39) L0zG9z?3T +033 ?+& 0#G8z+933G&L0zGN0#9G&T0L3(0 9L&rXT899N&eiz89NL++9TL+A#GLT9LGE#8&NH0ETNL&H88+98?EE 80NTEE?TEL #+GTi?8E+G3N 39?&#E 8+03#?NE#830#3G?J#G +033zz9# &E0830z9#N&#0?T#? #l&G0+GTzz#z&L+ET+z093&Ny9G?zz9&&:}#G+N#9zL9<L8EN E0 .xN8EN?90L&i+88N+03LzE#8LN+T LNEG88?&T??EE&G++8TN?3Ez 9+G9L? E0 GN?3T?L##G&?838?z#3 ?093TzEEG#30G3&zT#G&#0&3uz8N+&30LG9zG9E&G003:L89T&&_#3 z<9G&+;TGzz0#9LES G0z39NL94?G+z#9bL8I+G9NzT#LL4E8 N0TTLNYz8?+#T&L/0&8++3Tz?#EL E+ T+?GEN T+?3#?&Eu 8+?33?z#9 L G3 ?0#G N0T3?z##&3G083+z3#z&90LGEz EE&G0NGTzL9#&&0dG8z+93&zP93NNE9 &0%3G9NT9?L#z#p?G9+?9,&L0N8EN+T9a+8TNNTTL?L9/GN09+L+E38z T_8T#L&E9 #N+9NLN EN!TA?8E+93810#TE?zEGL +E3T## ?0#3&?A#8 +033z?4#& L0 30zGNN# &L+&GT?+#T0NGEzz99&L N00G#NE&z0oG?N#9&9&LGjEG29?&87L8EN 0 TE&&99G8z+98L8E3G&NET8E#G0+ET L0zL>+ E+LTGz&ET GN3TILL #NO3E? E0#8&0+0T9L+TG T0G33?  ?+83LzE# 9 &30TTk+3#9 8EN30z3#&& 9EzL9E& +NELzN99&?0&G&zi988+0 GzN#9L&K7 G+NG#? L-?G0N&9&L8t+83Nz9zLL5q8 NzTGL?ET3?N0T&L0E88N+3TE?90LGz+ T+?GEz TN+3#L8E9 8+?33? #9 L0E3 G0#G z0T3 z##8 /+3#zz
+if game.PlaceId == 82013336390273 then
+
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+local Window = Rayfield:CreateWindow({
+   Name = "lll HUB | Piackaxe Simulator",
+   Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
+   LoadingTitle = "loading",
+   LoadingSubtitle = "by Thanetnat",
+   ShowText = "lll HUB", -- for mobile users to unhide rayfield, change if you'd like
+   Theme = "Default", -- Check https://docs.sirius.menu/rayfield/configuration/themes
+
+   ToggleUIKeybind = "K", -- The keybind to toggle the UI visibility (string like "K" or Enum.KeyCode)
+
+   DisableRayfieldPrompts = false,
+   DisableBuildWarnings = false, -- Prevents Rayfield from warning when the script has a version mismatch with the interface
+
+   ConfigurationSaving = {
+      Enabled = false,
+      FolderName = nil, -- Create a custom folder for your hub/game
+      FileName = "lll Hub"
+   },
+
+   Discord = {
+      Enabled = false, -- Prompt the user to join your Discord server if their executor supports it
+      Invite = "noinvitelink", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ ABCD would be ABCD
+      RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+   },
+
+   KeySystem = false, -- Set this to true to use our key system
+   KeySettings = {
+      Title = "Untitled",
+      Subtitle = "Key System",
+      Note = "No method of obtaining the key is provided", -- Use this to tell the user how to get a key
+      FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
+      SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
+      GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+      Key = {"Hello"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+   }
+})
+  --local Var
+  local selectRebrithValue = nil
+  local isAutoRebrith = false
+  local Players = game:GetService("Players")
+  local player = Players.LocalPlayer
+ --local list 
+  local RebrithLists = {
+    ["+1 Rebrith"] = "1",
+    ["+5 Rebrith"] = "2",
+    ["+20 Rebrith"] = "3",
+    ["+50 Rebrith"] = "4",
+    ["+100 Rebrith"] = "5",
+    ["+250 Rebrith"] = "6",
+    ["+500 Rebrith"] = "7",
+    ["+1k Rebrith"] = "8",
+    ["+2.5k Rebrith"] = "9",
+    ["+5k Rebrith"] = "10",
+    ["+10k Rebrith"] = "11",
+    ["+25k Rebrith"] = "12",
+    ["+50k Rebrith"] = "13",
+    ["+100k Rebrith"] = "14",
+    ["+250k Rebrith"] = "15",
+    ["+500k Rebrith"] = "16",
+    ["+1M Rebrith"] = "17",
+    ["+2.5M Rebrith"] = "18",
+    ["+10M Rebrith"] = "19",
+    ["+25M Rebrith"] = "20",
+    ["+100M Rebrith"] = "21",
+    ["+1B Rebrith"] = "22",
+    ["+50B Rebrith"] = "23",
+    ["+500B Rebrith"] = "24",
+    ["+1T Rebrith"] = "25",
+    ["+100T Rebrith"] = "26",
+    ["+1Qd Rebrith"] = "27",
+    ["+50Qd Rebrith"] = "28",
+    ["+2.5Qn Rebrith"] = "29",
+    ["+50Qn Rebrith"] = "30",
+    ["+500Qn Rebrith"] = "31",
+    ["+55x Rebrith"] = "32",
+    ["+100Sx Rebrith"] = "33",
+    ["+1Sp Rebrith"] = "34",
+    ["+50Sp Rebrith"] = "35"
+    
+  }
+  
+local MainTab = Window:CreateTab("Main", 4483362458) -- Title, Image
+local Section = MainTab:CreateSection("Auto Rebrith")
+local SettingTab = Window:CreateTab("Setting", 4483362458)
+
+
+local Dropdown = MainTab:CreateDropdown({
+    Name = "Select ReBrith",
+    Options = {
+        "+1 Rebrith", "+5 Rebrith", "+20 Rebrith", "+50 Rebrith",
+        "+100 Rebrith", "+250 Rebrith", "+500 Rebrith", "+1k Rebrith",
+        "+2.5k Rebrith", "+5k Rebrith", "+10k Rebrith", "+25k Rebrith",
+        "+50k Rebrith", "+100k Rebrith", "+250k Rebrith", "+500k Rebrith",
+        "+1M Rebrith", "+2.5M Rebrith", "+10M Rebrith", "+25M Rebrith",
+        "+100M Rebrith", "+1B Rebrith", "+50B Rebrith", "+500B Rebrith",
+        "+1T Rebrith", "+100T Rebrith", "+1Qd Rebrith", "+50Qd Rebrith",
+        "+2.5Qn Rebrith", "+50Qn Rebrith", "+500Qn Rebrith",
+        "+55x Rebrith","+100Sx Rebrith","+1Sp Rebrith","+50Sp Rebrith"
+    },
+    CurrentOption = {"+1 Rebrith"},
+    MultipleOptions = false,
+    flag = "Dropdown1",
+    Callback = function(Options)
+        local selectedName = typeof(Options) == "table" and Options[1] or Options
+        selectRebrithValue = RebrithLists[selectedName]
+    end,
+})
+  
+  
+  local Toggle = MainTab:CreateToggle({
+    Name = "Auto Rebirth Selected",
+    CurrentValue = false,
+    Flag = "Toggle1",
+    Callback = function(Value)
+        isAutoRebrith = Value
+
+        while isAutoRebrith do
+
+            if selectRebrithValue == nil then
+                print("เลือกจำนวนก่อน")
+                break
+            end
+
+            local args = {
+                "Rebirth",
+                tonumber(selectRebrithValue)
+            }
+
+            game:GetService("ReplicatedStorage")
+                :WaitForChild("Paper")
+                :WaitForChild("Remotes")
+                :WaitForChild("__remotefunction")
+                :InvokeServer(unpack(args))
+
+            task.wait()
+        end
+    end,
+})
+  
+  local autoClaim = false
+
+-- ฟังก์ชันตรวจคูลดาวน์
+local function canClaim(chestName)
+    local chestData = game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui")
+    -- เปลี่ยนจาก PlayerGui เป็น Folder ของค่า chest ถ้าเกมใช้แบบอื่น
+
+    local cd = 0
+
+    -- 1. ลองหา Attribute ชื่อ Cooldown
+    if chestData:GetAttribute(chestName .. "_Cooldown") then
+        cd = chestData:GetAttribute(chestName .. "_Cooldown")
+    end
+
+    -- 2. ลองหา Attribute แบบ NextClaim
+    if chestData:GetAttribute(chestName .. "_NextClaim") then
+        cd = chestData:GetAttribute(chestName .. "_NextClaim") - os.time()
+    end
+
+    -- 3. ถ้าไม่มีข้อมูลเลย ให้ลองยิง (บางเกมไม่เก็บ CD)
+    if cd == nil then
+        return true
+    end
+
+    return cd <= 0
+end
+
+local Section = MainTab:CreateSection("Auto Claim")
+  
+local ToggleClaim = MainTab:CreateToggle({
+    Name = "Auto Claim Chests",
+    CurrentValue = false,
+    Flag = "Toggle2",
+    Callback = function(state)
+        autoClaim = state
+
+        while autoClaim do
+            -- Daily chest
+            if canClaim("DailyChest") then
+                local args1 = {"Claim Chest", "DailyChest"}
+                game:GetService("ReplicatedStorage")
+                :WaitForChild("Paper")
+                :WaitForChild("Remotes")
+                :WaitForChild("__remotefunction")
+                :InvokeServer(unpack(args1))
+
+                print("Claimed: DailyChest")
+            end
+
+            task.wait(0.3)
+
+            -- Group chest
+            if canClaim("GroupChest") then
+                local args2 = {"Claim Chest", "GroupChest"}
+                game:GetService("ReplicatedStorage")
+                :WaitForChild("Paper")
+                :WaitForChild("Remotes")
+                :WaitForChild("__remotefunction")
+                :InvokeServer(unpack(args2))
+
+                print("Claimed: GroupChest")
+            end
+
+            task.wait(3) -- เช็คทุก 3 วิ (ไม่แลค)
+        end
+    end,
+})
+  
+  local autoRewardEnabled = false
+
+local function StopAutoReward()
+    autoRewardEnabled = false
+end
+
+local function StartAutoReward()
+    if autoRewardEnabled then return end
+
+    autoRewardEnabled = true
+
+    task.spawn(function()
+        while autoRewardEnabled do
+            task.wait(0.25)
+
+            local menus = player.PlayerGui:FindFirstChild("Menus")
+            if not menus then continue end
+            local rewardUI = menus:FindFirstChild("Reward")
+            if not rewardUI then continue end
+
+            local main = rewardUI.Frame.Main
+            local available = main.Claim.Main:FindFirstChild("Available")
+
+            if available and available.Visible == true then
+                pcall(function()
+                    main.Claim:Activate()
+                end)
+            end
+        end
+    end)
+end
+
+local Toggle = MainTab:CreateToggle({
+   Name = "Auto Reward Egg",
+   CurrentValue = false,
+   Flag = "Toggle3",
+   Callback = function(Value)
+       if Value then
+           StartAutoReward()
+       else
+           StopAutoReward()
+       end
+   end,
+})
+  
+  local Section = MainTab:CreateSection("Change Speed")
+  
+local MiningSlider = MainTab:CreateSlider({
+    Name = "Mining Speed",
+    Range = {1, 10},
+    Increment = 1,
+    Suffix = "x",
+    CurrentValue = 1,
+    Flag = "Slider1",
+    Callback = function(Value)
+        local stats = game:GetService("ReplicatedStorage").Stats:FindFirstChild(player.Name)
+        if stats then
+            local boost = stats:FindFirstChild("MiningSpeedBoost")
+            if boost then
+                boost.Value = Value
+            end
+        end
+    end,
+})
+
+
+ local HatchSlider = MainTab:CreateSlider({
+    Name = "Hatch Speed",
+    Range = {1, 7},
+    Increment = 1,
+    Suffix = "x",
+    CurrentValue = 1,
+    Flag = "Slider2",
+    Callback = function(Value)
+        local stats = game:GetService("ReplicatedStorage").Stats:FindFirstChild(player.Name)
+        if stats then
+            local eggStats = stats:FindFirstChild("EggStats")
+            if eggStats then
+                local hatch = eggStats:FindFirstChild("HatchSpeed")
+                if hatch then
+                    hatch.Value = Value
+                end
+            end
+        end
+    end,
+})
+
+
+
+  local Section = SettingTab:CreateSection("Change Theme")
+--Theme
+local ThemeDropdown = SettingTab:CreateDropdown({
+    Name = "Select Theme",
+    Options = {
+        "Default",
+        "Amethyst",
+        "Bloom",
+        "Green",
+        "Light",
+        "Ocean",
+        "Serenity"
+    },
+    CurrentOption = {"Default"},
+    MultipleOptions = false,
+    flag = "Dropdown2",
+    Callback = function(Options)
+        local selectedTheme = typeof(Options) == "table" and Options[1] or Options
+        Window.ModifyTheme(selectedTheme)
+    end,
+})
+  
+  local Section = SettingTab:CreateSection("Close Ui")
+  
+local DestroyButton = SettingTab:CreateButton({
+   Name = "Destroy Gui",
+   Callback = function()
+     Rayfield:Destroy()
+   end,
+})
+
+end
