@@ -311,6 +311,7 @@ local DestroyButton = SettingTab:CreateButton({
      Rayfield:Destroy()
    end,
 })
-Rayfield:LoadConfiguration()
-   
+  
+  Rayfield:LoadConfiguration()
+  
 end
