@@ -69,17 +69,18 @@ local Window = Rayfield:CreateWindow({
     ["+1B Rebrith"] = "22",
     ["+50B Rebrith"] = "23",
     ["+500B Rebrith"] = "24",
-    ["+1T Rebrith"] = "25",
+    ["+5T Rebrith"] = "25",
     ["+100T Rebrith"] = "26",
     ["+1Qd Rebrith"] = "27",
     ["+50Qd Rebrith"] = "28",
-    ["+2.5Qn Rebrith"] = "29",
-    ["+50Qn Rebrith"] = "30",
-    ["+500Qn Rebrith"] = "31",
-    ["+55x Rebrith"] = "32",
-    ["+100Sx Rebrith"] = "33",
-    ["+1Sp Rebrith"] = "34",
-    ["+50Sp Rebrith"] = "35"
+    ["+500Qd Rebrith"] = "29",
+    ["+2.5Qn Rebrith"] = "30",
+    ["+50Qn Rebrith"] = "31",
+    ["+500Qn Rebrith"] = "32",
+    ["+5Sx Rebrith"] = "33",
+    ["+100Sx Rebrith"] = "34",
+    ["+1Sp Rebrith"] = "35",
+    ["+50Sp Rebrith"] = "36"
     
   }
   
@@ -97,7 +98,7 @@ local Dropdown = MainTab:CreateDropdown({
         "+50k Rebrith", "+100k Rebrith", "+250k Rebrith", "+500k Rebrith",
         "+1M Rebrith", "+2.5M Rebrith", "+10M Rebrith", "+25M Rebrith",
         "+100M Rebrith", "+1B Rebrith", "+50B Rebrith", "+500B Rebrith",
-        "+1T Rebrith", "+100T Rebrith", "+1Qd Rebrith", "+50Qd Rebrith",
+        "+1T Rebrith", "+100T Rebrith", "+1Qd Rebrith", "+50Qd Rebrith","+500Qd Rebrith",
         "+2.5Qn Rebrith", "+50Qn Rebrith", "+500Qn Rebrith",
         "+55x Rebrith","+100Sx Rebrith","+1Sp Rebrith","+50Sp Rebrith"
     },
@@ -209,50 +210,36 @@ local ToggleClaim = MainTab:CreateToggle({
     end,
 })
   
-  local autoRewardEnabled = false
+  local Button = MainTab:CreateButton({
+    Name = "Claim All Codes",
+    Callback = function()
 
-local function StopAutoReward()
-    autoRewardEnabled = false
-end
+        local Codes = {
+            "Update2",
+            "Update3",
+            "Update4",
+            "Update5"
+        }
 
-local function StartAutoReward()
-    if autoRewardEnabled then return end
+        for _, code in ipairs(Codes) do
+            local args = {
+                "Redeem Code",
+                Code
+            }
 
-    autoRewardEnabled = true
+            game:GetService("ReplicatedStorage")
+                :WaitForChild("Paper")
+                :WaitForChild("Remotes")
+                :WaitForChild("__remotefunction")
+                :InvokeServer(unpack(args))
 
-    task.spawn(function()
-        while autoRewardEnabled do
-            task.wait(0.25)
-
-            local menus = player.PlayerGui:FindFirstChild("Menus")
-            if not menus then continue end
-            local rewardUI = menus:FindFirstChild("Reward")
-            if not rewardUI then continue end
-
-            local main = rewardUI.Frame.Main
-            local available = main.Claim.Main:FindFirstChild("Available")
-
-            if available and available.Visible == true then
-                pcall(function()
-                    main.Claim:Activate()
-                end)
-            end
+            task.wait(0.2)
         end
-    end)
-end
 
-local Toggle = MainTab:CreateToggle({
-   Name = "Auto Reward Egg",
-   CurrentValue = false,
-   Flag = "Toggle3",
-   Callback = function(Value)
-       if Value then
-           StartAutoReward()
-       else
-           StopAutoReward()
-       end
-   end,
+    end,
 })
+
+
   
   local Section = MainTab:CreateSection("Change Speed")
   
@@ -295,6 +282,8 @@ local MiningSlider = MainTab:CreateSlider({
         end
     end,
 })
+  
+  
 
 
 
