@@ -27,24 +27,51 @@ local Window = Rayfield:CreateWindow({
       RememberJoins = true -- Set this to false to make them join the discord every time they load it up
    },
 
-   KeySystem = false, -- Set this to true to use our key system
+   KeySystem = true, -- Set this to true to use our key system
    KeySettings = {
-      Title = "Untitled",
+      Title = "kuyton",
       Subtitle = "Key System",
-      Note = "No method of obtaining the key is provided", -- Use this to tell the user how to get a key
+      Note = "get key from i ton", -- Use this to tell the user how to get a key
       FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
-      SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
+      SaveKey = flase, -- The user's key will be saved, but if you change the key, they will be unable to use your script
       GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
       Key = {"Hello"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
   --local Var
+  local ClaimAllCode = flase
+  local AutoChest = flase
   local selectRebrithValue = nil
   local isAutoRebrith = false
   local Players = game:GetService("Players")
   local player = Players.LocalPlayer
+  local TimeDaily = workspace.Chests.DailyChest.UI.GUI.Timer
+  local TimeGroup = workspace.Chests.GroupChest.UI.GUI.Timer
   
-  -- funftion 
+  -- function 
+  local function Daily()
+    
+      if TimeDaily.Text == "Ready!" then
+        local args = {
+          "Claim Chest",
+          "DailyChest"
+        }
+        game:GetService("ReplicatedStorage"):WaitForChild("Paper"):WaitForChild("Remotes"):WaitForChild("__remotefunction"):InvokeServer(unpack(args))
+      end
+  end
+  
+local function Group()
+    
+      if TimeGroup.Text == "Ready!" then
+        local args = {
+          "Claim Chest",
+          "GroupChest"
+        }
+        game:GetService("ReplicatedStorage"):WaitForChild("Paper"):WaitForChild("Remotes"):WaitForChild("__remotefunction"):InvokeServer(unpack(args))
+      end
+end
+  
+
   local function code2()
     local args = {
       "Redeem Code",
@@ -174,32 +201,7 @@ local Dropdown = MainTab:CreateDropdown({
     end,
 })
   
-  local autoClaim = false
 
--- ฟังก์ชันตรวจคูลดาวน์
-local function canClaim(chestName)
-    local chestData = game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui")
-    -- เปลี่ยนจาก PlayerGui เป็น Folder ของค่า chest ถ้าเกมใช้แบบอื่น
-
-    local cd = 0
-
-    -- 1. ลองหา Attribute ชื่อ Cooldown
-    if chestData:GetAttribute(chestName .. "_Cooldown") then
-        cd = chestData:GetAttribute(chestName .. "_Cooldown")
-    end
-
-    -- 2. ลองหา Attribute แบบ NextClaim
-    if chestData:GetAttribute(chestName .. "_NextClaim") then
-        cd = chestData:GetAttribute(chestName .. "_NextClaim") - os.time()
-    end
-
-    -- 3. ถ้าไม่มีข้อมูลเลย ให้ลองยิง (บางเกมไม่เก็บ CD)
-    if cd == nil then
-        return true
-    end
-
-    return cd <= 0
-end
 
 local Section = MainTab:CreateSection("Auto Claim")
   
@@ -208,52 +210,27 @@ local ToggleClaim = MainTab:CreateToggle({
     CurrentValue = false,
     Flag = "Toggle2",
     Callback = function(state)
-        autoClaim = state
-
-        while autoClaim do
-            -- Daily chest
-            if canClaim("DailyChest") then
-                local args1 = {
-                  "Claim Chest", 
-                  "DailyChest"
-                }
-                game:GetService("ReplicatedStorage")
-                :WaitForChild("Paper")
-                :WaitForChild("Remotes")
-                :WaitForChild("__remotefunction")
-                :InvokeServer(unpack(args1))
-            end
-
-            task.wait(0.3)
-
-            -- Group chest
-            if canClaim("GroupChest") then
-                local args = {
-                  "Claim Chest", 
-                  "GroupChest"
-                }
-                game:GetService("ReplicatedStorage")
-                :WaitForChild("Paper")
-                :WaitForChild("Remotes")
-                :WaitForChild("__remotefunction")
-                :InvokeServer(unpack(args))
-            end
-
-            task.wait(3) -- เช็คทุก 3 วิ (ไม่แลค)
-        end
+        AutoChest = state
+      if AutoChest then
+        Daily()
+        Group()
+      end
+        
     end,
 })
-  local Button = MainTab:CreateButton({
-    Name = "1 Click for 1 Codes",
-    Callback = function()
-      code2()
-      
-      code3()
-      
-      code4()
-      
-      code5()
-      
+  local ToggleClaim = MainTab:CreateToggle({
+    Name = "Claim All Code",
+    CurrentValue = false,
+    Flag = "Toggle3",
+    Callback = function(Val)
+      ClaimAllCode = Val
+      if ClaimAllCode then
+        code2()
+        code3()
+        code4()
+        code5()
+      end
+        
     end,
 })
 
@@ -336,4 +313,3 @@ local DestroyButton = SettingTab:CreateButton({
 })
 
 end
-
