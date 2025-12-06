@@ -248,13 +248,13 @@ local ToggleClaim = MainTab:CreateToggle({
     Name = "1 Click for 1 Codes",
     Callback = function()
       code2()
-      print("Code2")
+      
       code3()
-      print("Code3")
+      
       code4()
-      print("Code4")
+      
       code5()
-      print("Code5")
+      
     end,
 })
 
