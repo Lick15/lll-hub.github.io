@@ -1,11 +1,14 @@
-# ใช้ Lua 5.4 official image
-FROM lua:5.4
+# Base Ubuntu image
+FROM ubuntu:22.04
 
-# ตั้ง working directory
+# ติดตั้ง Lua 5.4 และ wget
+RUN apt-get update && apt-get install -y lua5.4 wget
+
+# สร้างโฟลเดอร์ /app สำหรับสคริปต์
 WORKDIR /app
 
-# คัดลอกไฟล์ทั้งหมดไปที่ container
+# คัดลอกไฟล์ทั้งหมดจาก repo ลง /app
 COPY . /app
 
-# รันสคริป Lua
-CMD ["lua", "Pickaxe Simulator.lua"]
+# คำสั่งรันสคริปต์ Lua
+CMD ["lua5.4", "Pickaxe Simulator.lua"]
