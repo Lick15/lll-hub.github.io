@@ -1,11 +1,11 @@
 # ใช้ Lua 5.4 official image
 FROM lua:5.4
 
-# สร้าง folder สำหรับ project
+# ตั้ง working directory
 WORKDIR /app
 
-# คัดลอกทุกไฟล์ไป container
+# คัดลอกไฟล์ทั้งหมดไปที่ container
 COPY . /app
 
-# รัน Lua script ของคุณ
+# รันสคริป Lua
 CMD ["lua", "Pickaxe Simulator.lua"]
