@@ -1,1 +1,265 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _jeAsrkBplqtD = a; end)); yQMXznmRbuBAkjeX=_ENV;vkrlprzgHuMnoUS='(A8,XhRrJWIl_T}%h}hJFXl;h_GWlXRD:_}IRXA_l_RJAXc,T}rT8h}XJAA%TTJ},+}rWlT!JF8JTXJirW,W}TW}T_Wh,X}EJ_R,AR_hR_h,lXW8hA%IITR8A1lc%XIWX_%JIX_rRlAIl%r,A_lWRrAhh_AXlXRk0_},WWR,,XJJRR8h_}JA,R}XJX_Jrh89__rJR%T1r}8JTXJpJA8AJX,XT_JJ,XXr}TIhXWWD,T}JWXXv8wWJh8%GW_XJA%Thr_8J%hl}A_%IlWR8Ah_IrJAJh_:}lXRB _%l__rh8%T_Jr_prrAJ_XroXr%IIXXHA}TTJR,W}}W_,_Jj,rTJJX,U8r}TIT,,%AI_hJ%WIIX%crXe%AWJXX%m},lIhWEhlI%JI}hx%_IJWIR%AJl_RW88IIRW8A_h>_lTRXA<l_lXrT8rTXJ__XrAA__JrXhJ__r%8XTLr_rrXX%XWhXr%8I,T_JT,X}{J_J_X_%hIWXTWXXT}_WJXXAlTArJXrAmR_XI/Wl8RhAI_JRJI_R,^Xl/h_hZAhTXR%8bJXR,8__TrW8XR_A__XrzA_AR},WX,ArJ8RTQr_8JSRl,8_}6JX,<T__}WTX_%AJRXh%TIA}JITXp}_WJWAh%sllRXrYhI%hr%r_XR}AA_8RrA%IBRTAX_eRT88IAJ08_TRA1_,RJAX_#l_JX8hT,JAAATJ8ST,rJ8XTBl%WrX8}}WA,l%J,w}rJJ,X}ylrRWX%lEJ}XT%RIWh}7_I_%)IhXJ%XIdJ%RIKWlAr>{TIJRA5}hJA8lth_QJT%W8,I}Tlhr}T_lIrW88ThJI,JTJA_ThrX8z__I,hR%}lAW,%XT8WA,I}TI8ht%H,X}_J_,J}XllRT,lxXR^,}%TIRhWf}l_h_IjX}%JIXhD8T}+hXHAI_hJYX}Wh_AXlXRsp_4l_Wr_8A_lJJ}Z_!Jf8WTTJA_Jr}8z__rJRlX8}lWTXX_,WX,T%rIXT_WX,X}#J_IRh,%WIIh}%TlXhA2XITh}>rXJyrIgX_%J}rl%RID}lTRr8A_IRh8X_hrr88l,RT8}_Tr}8,RJ8g_NR_AJ}%IhX_,,WXr8,ATIJTX8%/W6TXJ%8_TJJXr_Xl}WWJXW%IW%,r&hW}h_%TlXhJ%TXX%JW_XJ%X%,_AhIAJlWrLAXlW!1lIhJ!Xl^Jr,T}XW:hTA_JXR88A_IrT,8}dJ7_Rr+A__%rX8o___lJWXX%BWAX8}r8_}RJX,DT_l,RhA1l_Jlh_l#J}XT%RIWh}K_I_%BIJXJ%XIwrr8TTXJ=A_%IlWR8Ah_IrJAJh_!IlXRZ/_}lWRAF_IRJAX_UI%JX8hTWJW}JlhJ_,JWJRr,%}eJTTXJ_8_TJJXhlwTlJW%LeT}WTXR%WI}h_%_X*%JWJXX%:_rrI8W}TR_XI5Wl8RhAI_JRJI_h}3XlEh_r,8WTWJt8rT8A/_JRJAX_oWrXI%WTl,_AITWJ8,h}IWJ,Jr_,)TXJQ8_8l}_W%h,T_WWhJHQ,J}_W6,_}JTrIAhJsXIRhA%%l,%XI8X_%JIXJ,,SIJhRUqI_hJ,r}Rh_ArlXRyc_%%TRrAA}l,rW,Wl8JI,,TTR%,A}JJh__JX8XT#r_JIXTIjJMX>}hW}XA%_I8XAw*,J}hW3,_}Jb_X %hWJXX%.}rITRT%,_hRlAJlhRWIJhJo=I_hJh8AA_WRTlXR_G_lJRXh,8X_WJ88rTA,JAr}iJA8TTJ8+_}rJ8XTmIThITXJl8_TJJXhlwTThhX,8%AWIXTN8lthuWXX8}_WJXX8A_%XJmRIyX_%JCllhrM_Jl%Rh8hrJRI88_lrhTX_W8_8_T,r}l_RIAX_iR_XI%IrLAT_JrX8zC,rJ8hTdr_8JeWJ6,,TJJX,xXJ%XI;?STXJT8RW{,}}JWXXqA%_lXX%8W_XJ%XT,rT%JIRh2%_IJJR,rI_Rh<Xlth_,,}hWb,_8,JXR88A_IrT,8}?J)_XrTA__JrXXl%}IRhWATW_rI,W}8WhXI%JWJT_J%,X}gJ_IXhG%_h_,D;WI8}_IpXX%gW_JWRA{h_ER+AT_,r.IJRA;.I_hJ8%}hJ_hW88JBh}AT_RrW8}T_r__FrWAJ_Xr0Xr%TIXhB,rWJrR,hT}WAXR%XWXTJJl,HT_JJJXX_}TlAXWY8I%}JW%Xx}_WJR%8h__RJXR7hI}RAAR_XRXIWhX/=I_hJ-Xl*J=XJlXRTK_lJRX,l}TWJXX#TJ_RI8WT8Jh,I}JJJ__JX8XTfr_RWXW%XWl%JTRWh,}%AIRhX%X,W}XW9T_TA,}%,T_TWXX%_W_XJ%X}TlhRR^Tl}R,_JIrr AAlTRJl+RRBJlXRz,r}TJXR88A_IrT,8}xJq_XrrA__JrXJ_,lTWJJ,W}IJ%TXJ88_TJJXRAG_JJ,l}HJ_,J8W%}WTXI9zIhhnWJhI%CW_XJ,JgWl%hWnRl_RA%IlhrWA8_ARWA__ hJ8R_%rW8JTJJ,l_rXAX_&R_X,%RIhX_}J_RJh8}}AWRXX}X8J}.Jj8_TJ_rI8XA}WIJXh}qIrXl%rIJXTWRXA}_IXXX%dW_r,8hTsWWAJ%Rlhh}AA_RrXAXhJ8llCh_2JSJ_Jrh8lJXrR8hTXrW}0},rW,rWmJ_,I},WX,ATlWJ,h}?XJXl}WI?X9IXrTXl%rI8,,%AWlCX}RR%}JWRXc}_WJrh8RW_XT%XIKX_,IAzl%RlAhhX1lI_hJ.XTlJTh_TXl8rAAI_TJ8,yToAX_IR_AJ_XWlXT}J_RJh8}}AWRXX}X8J}WJs8_TJ_hIhhi%rhX,8%AWIXT*8l7h0lXW,hAxXIWh,A1IThJIChr%JIXhqh8AA_RrX8AlWrPvh_%RT8RR{3}lJRXAD}TWWAX_hR_AJ_X_XJh,hTWW8__rW8XTDr_h}TXWA8_TJJXrAhA%_I,t+_%IXXh%WIWbJTrIJhAfllJR,W_X%%XI?X_Xl4h_RRA%,lWrWI_R8aXl<h_rX8,_Arc8lTJJ88hTRrl_=R%AJ_XrmRr8T}T8m_}rJ8XT;I}hWTXJ_8_TJJXr,XX}WI8Xr%AhJ,J%JIAhh%WX-%fWJXX%j}hIlR,E}XT,JXXR8}}rh%WT8}}hJ+RlKh_GJ}hWX3_lTRXAkl_lrrr8h_TJR_XrlA__JrXRX,A}lWJX8}lIA%X_rIAXAJX,lT_JJ,Xil_AI,sX}8IAXI%Tl8Rg1:XX%8W_XJ%XT8r}%Jl*h#%_IJr%,AT_JJ8Xd8_ARIATT8J-85RXA8l_RJAX%8IAAJ_lr2A__JlJJW,%TlW,X8}!8JTrJc8_TJ_lJh8hJJXH}HJ_,J8rDhI}hI%WI}Rm}}Ihh_AAIT%XI8X_%JIXJA,hIJRe gI_hJXr88_ARW8J_hX}8TTJJX8lTRAX_AR_AJ_XIAA__IrX8Q__IIh_TprT8JTXJPh%TJJR,<T_JJRhAhJ_X3}XW/,_,l%Wl8hA)RITRXAhXJ%}IpX_%J}%lhrh_JIrrWA%__RWATh_<IlXR6E_}IWXA2_HRJAX_>l8JX8hTrA_TArX8L___AW8,,}}JTXA}hWIX_JX,IT_JJ,X8X}TIAh61Wr%hN%Wl,R6WJhE%1W_XJA%TAWTh__XI8RA5IlTr88;_xvXlrh_uJlXIXrAA}_hJh8JT_AX_lR_AJ_Xl_Jl8lThJ_A_}XJhXW}AWITXJ_8_TJJXr,X}}TWhhX%AJlhm%WINXTBRX,}_IhXX%=W_r,8WTsWTh__XI8RAcIlTr88F_?+XlTh_;JlXI,JA8ITRrh8IT_R,,&}zJA,,T}A__IrX8;__IWhlTwJI8JTXJ2R%XI}WWAhZ}TrJh8%lIJXJ%%l,hRWhXx}_WJXX%^W_XJ%XIGhJ%JIXh0XJArlhRXAh_RRltX_hr_8E_h2__hRXAYl_lIrW8TTAJh8RThJ}A8},JW,I}l8X}_r_8JTX}JIFX_%XI,ARlrR,h,%hIIXTMhI%AR4AIhhIYTr,R8%T_AhIjWlARXcJhjeWIJhXU)}%_IRWAATaRT7r_hR%8__Tr%8IRJAR_PR_AJ%RIXA_TrrX85___hWW,_%!WAXX}_WA8r%XIXXh%rI8h,JT,J}XW6,_}JWXh_8_WJXW%vW_XJXR=AlIh%9WhHjAIJhXZ?%hl_r.Ah_naJ_ARVu_lJ_,rI8AIWJr,8TrhI,XT_JT,_lJ8^_}rJ8XTvI%hJTXJ88_TJJXR,AAJJ,I}2J_,J,r;hI8X}%TlJ}_I8XX%VW_JWRWAXllAJ}rl_hTAA_AuolWhJGXldJr,W}XW7RQTJlRrhA}TAJR,XTXAJTArxA__JW%hh%_IJRR%B_}JT,R}WW}X_}_,S}TJJ,X}=TJIrXh%Xr%hrq8IRhh%%lWR8%Tl_hT&%lI%JIlh<%_IJW_rX87_JXlAhTf0JTURHs_lJTar_8JJJh_AhI},JXmWuR_,AThJ,,rTWW_,hW_rl,T}TIAXX}hIXXl%I,X}WJ_,J}XTXI}hr:XIXhl %l88AW_h_%XI9X_,_4T_,hT>I_NRh}}_TRTA__4h%AhT8rI8AT8rr8%RJAI_xR_AJ7TT}W8,A}JJh__J88XT&r_R%,W%Xr%,T%RIRXh}lWW}xWI,J}XWbJ%XTs=IhX%e_RXX8!AIIhTA8_fRzIXhJ%_IJhXX,AJ_rrrAhr_hTATRA?_lJRXA*l_RJSX%%R_8X_Xr&A_%,IWhFw}WJrR,hT}WAXR%XWXTJW,,UT_JJJJX%%,W%hp%hWA,AT%IhRh%IITh}xyXJ%%IkX_%J_%JA,}_JIRRh/}_ArR8X_XBJlRRFo_lJWRXWl_RTAX_0R_Rk8WT_JJ,rrX8h__rJ8X8X}hW_XF}hhhTWJX,yT__X,X}3J_,W}XWP,_%IITXC}_WJh}%DW_XJpRlIX_%JIX}_%_IJhX8RlrhJMXlsR8vJlhRURTlJRJXRl_RJAX_RR_AW_Xr^8%_JrX8m_TrJ8XT=J}XJTXJ?8_}AJX,jT_IJh_}:J_,J}XWFhr}JlIh8}_WJXXAJWTXW%XA8X_%_TIhK%_IJr_LAIThJARTwh_zJlX_T;_lJRX888_RJAh_PrhAJ_XrC,_TJrX8A__rW8XrXr_,I}lJd8%TJAW,*T_JJ,X}hJ_,W}XW,,_}JWXX7%,WJXX%gW_XJ%RI6X_!tIXhs%_IWhXK8I_rJA%lLhTKJlXRp)}lJRXAhl_RlAX_5R_8h_XIp8x_Jrr84jIrJ_WTMI_,WTXJ,8_XWJX_8T_lJXr}0J%,JrrWQWh}J_XhX}_WlXXAWW_J,%XT>hr%JIrha,8IJWlOOT_RW?Xl,h_A_lX}I0_}JWRAZl%RJ_8_nr,AJ%Xr,A__lrXr___IX8X9oI%8JTrJiT,TJlU,*T_Wl,X}XJ_,J}XW,,_AJI8Xs%!WJW%%w_JXJ8XIlX_%_IXRn%_,hhX,olIhJZJldrhbJ{ARgA__8RXA,l_J%AX_XR_AJ_Jrt82_JrX89_%rJhXO8r_8_TXTl8_fXJXRt}AJJ,J}6,X,J6IWpR_O_WXXX}_8_XXX%W_hJy}IvX%%JA}hUK^IJJX8XI_hlaX}Th_,XlXR!AAlJRJAUl_RJAl_#W_AI_XrXA_rIrXhX__IJ8JTmJf8J%}Jsl?TJlX,hT_J_,X%rJ_rl}X_:XW}JWJX?YhWJl8%o__hI%XIXX_RXIXI%%_TJRRD2l4hJ,}lVJJ3JlX_A2_lTRXAAl_RJAXT8r_AJ_Ir3_T_JrX8a__WA8XThr_8}TXJA8_}JW},E}FJJI8}QWA,J%XaT,_}lWXX}}_W_XX%klrXJ%hI1X%%JIRhq%_IWhX;8I_hJ;XlCh_>J_%RoK%lJRXACl_RJAXTXR_A__XrXA__JrX8{_TrJ8WT#r_8JTXJ&,}TTJX,RT_WA,X}OJ_hJ}_WnX8}JWIX;WhWJhRA8W_h)%X%AX_%JIXhg%TIJhIe+lXhJ/Rl<r_8,lXRrm_l}RXWll_rI,3_trXAJ_Wr=A__JWX8W__Jw8XTJr_,XTXIxXmTJJ_,i}XJJl_}jI_X_}XWJ,_%MWXXJ}_lJlj%eIXXJ%_IS_r%J_X_W%_lbhXeJI__AzX_8h}!JlTRjAAlJRXA/T_rpAX_WR_8A_Xr_A_}JJ}8ZThrJ8TT:IA8J%XJ}8_}AJX,WT_Ww,Xe*WA,J}TWUXh}JG%X5U_l,XX%WW_hA%XyWX_%}IhhmVRIJhlOdIThJLhl5h_h}lXR&q__ORXAPl_R}Ah_^rrAJ_RrsAT_Jrh8x___}8XTer_,ATXJF8_TI_X,D}JJJXA}{J_,J}RT0,_%hWXX}}_WJXX%8T_XJ&8IQhA%JIXhO%}}JhX*%I_R,:XlKh_jJlWRYA_lJRXA#ThRJXXTJR_8J_XThA_XrrXh0_TrJ,XT:TX8JThJDh_}XJXX+T_Wh,XRAJ_RJ}lWxX_}J}RXN%RWJrX5JW_hJ%XAJX_,}IXJkA8IJRXGSfWhJR}l-J_,RlXr5K_}rRXhhl_WJ,A_Dr_AJ}Ar!8}_JIX88__JJ8X%kr_XlTXlEXATJWX,dh8JJJ}}Kl_hA}XI ,_AIWXIJ}__JhI%LI_XJ8WIpJ_%JTXRT%_lJhX8JI_WIDX}HJIkJ_XR3hrlJTrAC}_r%AXTHR_A__X%8A_%JJW8NT_rJrXT:T}8J3XWJ8_}JJXrAT_AJ,XA4Wr,J%XWtJJ}JlRX+A_IAXXe{W_IJ%XATX_8Jl_h!x_IJJrDf,AhJ,XT}h_AJlXlX{_8rRXX1l%RJ8X_ AlAJ,lrKX__}rX,w__8h8X}Jr_hJ}XJN,_TJ8R,#r,JJRX}_J_XJ}X%X,_RAWXr#%WWJhX%7,TXJ,JIVr_AhIXR5%_,AhXXII_JJ,8l:R_<JX8R>J_lJWXAll_rJAX}lR__J_XIm,8_JJX8N}lrJ_AT0I_,RTXWy8_8rJXrWT_lJ,%}9W_,J}%WZR_}J_Xhl}_IJXX%RW_Wv%XTVRX%JlXh*8IIJJ_VkT_JI+X_#h_8WlX%}^_}JRhAm__RJ8W_*IhAJ}XrJA_TWrX8A__WR8X}8%X8J}rJU8%TJJX,6}}Vk,X%XJ_J}}XW6,_}JIJXO%TWJhJ%pW}XJAXI}X_3IIXRA%_,}hXA8l8hJAJlblAPJlXRw^__XRX88l_r_AX_8R_,JTTrQ8%_Jrh81}IrJ,RT8r_,TTXIT8_TJJXX8%RJJXI}*}8,J}XW6,_,AWXh,}_I}XX%8W_RJ,JIqRp%JlhhsJTIJhXmTI_R}{XlLh_k}lXW:8rlJrIA#%IRJl}_uR_8__XJrA_}ArX8w__JIXgTfWX8J,WJa8_TJWR,JT_IA,X,JJ_,J}XI8XT}JI}X/%WWJXX%9I}hX%XllX_XIIXhn%_lIhrot_JhJr_l h_kJ_RrIC_ThRXRTl_RJAXT8R%AJ}8r)Xl_JrX8<T}J88X}%r_XhTXJm8_}IWI,:%_JJhX}^J_,J%RIW,_KWWXlR}_WJXXU8IJXJARIDr}%JIXhu=}_AhX8,I_JT/Xlth_AIl%RZ,ZlJJ_Anl_RJ8RTRR_,T_XllA__JrX,8TXrJXIT J;8JTXJ.,}}lJXhrT_TJ,X})J_XI}}WNRX}JThXa}_WJhR%_W_rA%X}_X_%JIXR8{lIJr}x:M_hJ5XlMR}82lXJld_}lRXAil_rIAI_=WJAJAJr{A__JJR8,__Ih8Xr%r_8JTXW8X,TJl8,/JWJJ,X}QW},}}Xl%,_JIWXXb}_IIhv%0__XJhJI>X_%JlRhR%_TWhXIAI_hJ+X_8rRVJ}RRmWhlJRXAk_}JXAX%,R_IR_Xr A_TIrR8gE9rJX%TVr_8J}RJR8_wTJXX%T_JJ,X%8IJ,JAIWCJl}JWXXm%}lhXX8rW_h,%XIpX_iIlThw,XIJhIPfI_hJAR_rh_XAlXJ}<_lJRX88_8RJX}_PJTAJ_XrY8}_TrXhl__JT8XTir_8J}RJVX,TJl%,=TTJJXX%IJ_X}}XI,,_%%WXXEXTWJhl%fWTXJ%XI h}0RIXRJ%_<ThXzyI_hJAllor,2J__R 4TlJrX8Il_r}AXX%R_8%_XIwX}_JJI8qRXrJhkT6I_8_TXWR8_h}JXTRT_J},h}#I,,J}_W5,T}JWRXQ}_}}XX%FW_X_%XIxX_%J%IhK%_IJRXa-I_hJAX_8h_A}lXWr;__%RXAF_%RJ8J_MJ8AJ_Rrk,_T,rX,h__JW8X8}r_8J},JwX,TJJX,ET%JJRX%WJ_X%}X_},_X}WXr-%lWJhl%UAJXJ8BI6h8%WIXRJ%_I}hX=AI_hI:Xl.l80JlXRgAAlJRXALl_l}AX_!R_A__XrYA_TJ_88>},rJhlTSWX8JTXJR8_}TJXXrT_JI,XQyW%,J%IW4XT}J8IX1%}IIXXjJW_}J%XIiX_%JlTh2A8IJR_Q1I}hJ8X_Xh_A%lXrAG_ARRXAf_}RJ8T_kR_AJ_rrqX_%IrX,W__lR8X,lr_hJ}hJnXhTJ0x,y6JJJ,I}AJ_h8}XWX,_}WWXX,}_WJWI%2W_XJ%rI?X_%JIXIR%_IJhXtII_hJEXlal84JlXRjArlJRXAg__rIAXTWR_X%_XJIA__JWq8#},rJ,TT+r}8J%XJ,8_%>JXXAT_}R,X}=Wl,J%}W*,_}JWrXZA_l8XXBIW_JR%XTAX_8Jl,hcARIJT^PBTJhJ IlAh_8,lXR<m_lWRXAhl_RJRI_cR_AJ_RrEA__JrXrR__rJ8XT_r_8JTXJ6J8TJJX,+}WJJ,X}HJ_J}}XW),_%RWXXU}_WJWI% W_XJ#,IaX_%JlXW}%__8hX,rI_r,ZXlmrAeJ__RQ8RlJRRA;T_J,AXTWR_8W_X=RA_TIWA80}rrJR,TMr_8JTXJh8_%AJXXlT_JI,X;6WX,J%}W9XT}J8CX7}_IJXX!_W_XJ%XIRX_8J_JhbAJIJW8Gb2,hJoXAXh_8hlXR8=_lJRX88TXRJ,8_YAJAJ_Xr78}T,rX,%___l8XT7r_8J}RJgXWTJI,,^TTJJXX%IJ_hX}X8I,_ hWXrpA}WJRj%B8,XJIQIFr_%_IXR_%_XrhX,_I_JJ8Jl>rJ*J,LRtlJlJRIAAl_JhAX_AR_AW_XrAA__J_I8b__rJ8lTYr_8J}XIr8_%XJXRrT_Ih,X}oIv,J%}W<hJ}JWRXO;_l,XX0lW_hW%X8_X_%JIhh)AWIJhXdNl8hJ,X_Th_8hlXW}x__}RXAsTaRJ,8_;R}AJ_Xrv8}TTrX,%__8X8XTQr_,IX_J?X_TJAT,4T_JJ,Xh%J_hR}Xl-,_}WWXhLaRWJRA%*,RXJA8IVr_8IIXRT%_8%hXI_I_JJAXl rWHJh,RMXJlJWX,Xl_JhAX,_R__X_XrRAT_JW881TRrJ8hTUrT8JTXTR8_TJJX,rT_JJ,X%QTI,JuAW+r,}Jl8XL}_I8XXKlW_Rh%XI8X_AJIlh0AJIJRr6tX8hJARlIh_8RlXTFf_lJRXAf_}RJ,U_7JIAJ_Rrk,_TlrX,T__Jl8XRAr_8J%AJ:XlTJJX,4}AJJRXFXJ_hr}X_},_>_WXX>R_WJRX%NI,XJ%XI3h}w,IXrA%_,8hXe/I_RIV_lDr}4JD8RLb_lJrRAhl_JlAX8,R_AJ_XJ88%_JWJ8sTlrJ8XT&J},hTXIh8_}WJX,.T_WIX%}El8,JhJWz,_}JIRlJ}_l%XXr,W_XJ%XI9_l%J_Xh>8,IJhh/!l_r8sX_%h_AllXJ*i_lJ_hA=T_RJAh_nR_AJTRr%A_}WrXII__rJ8XT!Ws8J%XJmXTTJJh,6}_I8,X%%J__r}Xl#,_AJlJXFxlWJT_%C_JXJ%IIAX_AJIXhW%_IWhX&AI_hJhIlfh_QJlhRd3_lJrXh}l_JrAX%rR_,J_Xr;,h_JWA8-}lrJ8RT.W_,ATXW}8_}lJX_RT_WIXT}.I_,JJ%WQ,_}JWXXr}_lRXXAFW_XI%X_yh,%J_,h:Y%IJT8KFI_rX#XTAh_)JlXR8q_}JJJA+TTRJh8_w}AAJ_IrAA_}IrX8,__rW8XTAr_8J8IJH8_TJJX,)T_JJXX/lJ_hW}X_r,_gIWXXN%}WJR,%4lTXJ%RIsh}A8IXrt%_lAhX:NI_rJ.Rl3r_CJTXR0lhlJrR8_l_JIAX8rR_AJ_XrS81_JWX82}}rJ8RT5W_X.TXIA8_T%JX_lT_IJ,_}:IT,J&hWchJ}JWIXA}_llXX%_W_XW%XIAX_%J%Ihv%_IJrXFZI_hJEX}Ah_8WlXJ,p_lWRX,^TrRJ,h_)R_AJRrryA_}4rXXA__rI8XTAr_8J%EJH8_TJJX,UT_JJ,X%,J_,J}XWA,_}JWXXi%lWJXX%QW_XJ%XIShW%JIXh2%_AAhXd>I_hJUXl^h_;J}_R?CTlJRXAql_RJAIgIR_AW_Xr_A__WrX8Y__r_hIT<r_8J}HJ-8TTJJXRJT_JW,X}AJ_,J}XW!X_}JWhXy}TWJXh%/W_hr%XIAX_%IIXha%_IJRXtbIThJuhlDhToJlXRl&_lWRXA,l_RJAX_KrXAJ_hrsAT_Jrh8^__W,8XTAr_8_TXJS8_TJW%,QTTJJ,h}mJT,J}XI,,_}JWXXA}_WJXX%AW_XJ%XIwhX%JIXh+%_IThXtxI_I}RhA_TARTlXR} _lJRXhR8hTRrJ?RThJI,r}Xh%,2TTJ_,nrJ8JT1r_8J,l}AWW,TJX,hT_JJ,X,,vZWWhJ.,,_%8WXXU}_T%IWRX}%ITRRARlhhltWh!)TIJhXod%}lTrXA__hRlAhTXrAA_lrJX8lTIrh8rTAAJTXrfA__J_AJW,I}AW8,r_%WJ,W}hWjAI%,W%X%%_,X}XJ_,J}XT}WThh%WhX}_WJXX!8W_XJ%hIeX%%JIXh2A_lRhX2AI_hWnXlhh_AI_JRv6%lJRIA7l_RJAX_%R_AW_Xr,A__IrXX<_TrJ8hTnrT8JTJJyX_}}JX,AT_JW,X}8J_,J}lW7,%}JWXXu}_WJRXh_W_Xl%XI,X_VwIXhNXhIJhh!uI%hJ-Rl0R8r8lXRAe__XRXAAl_RWAX_XI8AJ_Xrx8J_Jrh8dT!I}8XT!r_,lTXJA8_%JJ_,kT}JJ,h}7J},J%R3J,_}_WXXr}_WJXX%3}hXJ%RI?h6%JIRhns8%8hXt8I_RlVXlAh_ JlXRXX8lJRXA?_%RJAh_qJ_JX_Xr8A__WrX8r__JJ,}T.r}8JThJH8_TJJXX,T_JJ,X}AJ_,J}XWA,_}JWXXZ%JWJXX%>W_XT%XIUX_XJHh_uRAAIhXLII_hJMX%r_}rr8WT)X%82_WJ,,3RJ8h_5R_AJARThJ_,XTTJ,8T}_JW,X_%W_X,%8JT,%}W,1}RJJ,X}mT,WThJ},IAhIgIIWX%%TXX%RW_XJ%XAhlIRJ9hl,RrIJhlx)I_hJhRAh_Wrr8J_hr%lJR%Akl_RJhr8__TJA,AWkh%,eTWW,XgrJ8JT2r_8J8J}hIXX_JX,_T_JJ,X8W%II}h,%lIA,l%Wl8R8%TlR%3I_XJ%XIyIlhrARlhRWAr_JRhA8_Tr8A,TsrA8,_}!_l}RXA!l_lIrW8AT1WA}hr 8w_JrX8:,,TWWA,hW88JTXJF8_AkJX,jT_JJ,X}aJ_hJhoW*,_}JWXXM%XWJRI%}W_XJ%XIhX_%WIXhl%_I_JIPuI_hJOWljhT0JlJWR0_lJRX8hl_RWAX_ZlXAJ_Xr4A}_JrX8;T}%28XTAr_8%TXJ48_}I%_,fT}JJ,R}wJ_,J}XE%,_}JWXX8}_WWXX-8l_XJ%hI^hJ%JIXhgA_},hXFAI_hW-XlXh_AI_,Rfp%lJRrAml_RJAX__R_AW_Xr,A__IrXX+}8rJ8hTBrT8JThJ=X_}RJX,AT_JW,X}RJ_hJ%,W{,T}JWhX5%RWJRX%IW_XW%XIAX_mAIXR8A_IJhr!tlAhJ.Xl*h_rhlXRXU_lJRXA6l_RJJ}_NR%AJ_Jr4A__JrX,R__rW8XTSr_8WTXJ1,%TJJX,2TTJJ,X}3J_,J}XWP,_}WWXXk}_WJXl%^W_XJ,JNhl%R_ARl%rhI_hX:CI_hJ,_l h_EJlXR!Y_lJJXAJl_RJAX_ R_AW_XrMA%_JrX8x_}rJ8hTLr_,lTXJE8_TWJX,6T_JJ,X}vJ_,J}RW/,_}JWXXX}_WJXXRX%Tllh%Inh9%JIXh>r,uWlTrXlIhJfXl&h_rAlXR6t_lJRXA+l_RJX__3RTAJ_Xr!A__JrIJI__rW8XThr_8WTXJA8_T_lI,&T_JJ,W}9JT,J}J_R,_}JWXXT}_WWXX%jTXXJ%hIHXT%JIXh&%_^XhX;AI_hWVXlAh_4J_RR?eTlJRRA{l_RJAX_IR_AW_XrAA__WrX,8}8rJ8hTGrT8JTXJVX_}RJX,AT_JW,X}8J_,J}rWk,T}JWhXy}TWJXJu,W_XJ%XIAX_%WIXhY.%IJhXFDIThJSXl)hTHJlXR>q__8RXAdl_RJAl_:R_AJ,W};JD8W}JJh+{rJ8%T.r_8J8R}hWN,T}WWT%__lI,XX%A,J}}W:,_}JTlIhRz}lIWR8A8lAhrBhX_%%IXhw%_%IlWRTAl__RW8,h_AWlXRK+_YI_WJc8JTArr8A}arT8J_,W5,r}RJA,,TT8XT_r_8JTX_WWIX}%,WlXATlWWh8k8WThRWoXf}JWXXUh,%WlAhhW_X}%XI3X_RTA8_GhT*ll%V=lAhJnXl9I_RW8X_hr}lJrXAel_RJr,A%T}rT,AT%Wg8TTIWh,ITlWJ,W}lWR}hJV8_TJJXWXT_JJ,X}8J_,J}XI8XW}JWhXC}}WJXX%CI}XT%XI8X_%WIXhn%_IJhl1BI_hJnRl.hTjJ_RJ.*_lWRXArl_RJAX}MIrAJ_hr{AT_Jrr8ET}J,8XT,r_8TTXJ48_TJIA,>TTJJ,r}wJ},J7XWR,_}WWXXA}_IAXXAoIAXJ%hIjXT%JIJh!A_lIhXfAI_hWCXlIh_8J_8R//TlJRhA#_8RJ8R,rR_Al_XrJA__JrX8x}!rJ8JT7r_8JTXJ38_%YJX,,T_J_,X}GJ_,J}JW+,T}JWXX5}TWJXX%WW_XJ%XIAX_%JIXh1%_IJhXE{lIhJaXlQh_V_lXR>9_8%_hrW, RJA}_gR_AJblThW^AlTWW8X8}AJr,hr_,wTXJ78_X_%,W}hA%hWRXh%},J}JW/,_}J!JIAh%V,XX%hW_XJ%X%sITRJ{W_8%_I_hX*OI_l%RhAT_AxJ_hR =_lJlRrh8_TXrT8,_TJ_8WTXR%,_},W88TT%JWTFJ,8JTXJ7r},T}RWWX}%_W_}dl%,J}XWVA_IAAX8=IX,T8XIJh,8JI_XT8_lo8h,nlX,j,XlJh%,Jl_XW,__.hlX&_XhAJXR88A_IrT,8}QJH}Xh2TXXWhXTWhXhJT_rTh_}&RTJD,JTJJX,P8h%RIIX%%rWT,r%hI}h}%Wl8}_WTXX%zW_lJRRDWlIR_IXhr%_IJhXh8AA_hr,8X_ArllXRRf_lJRXJh8ITJrh8,TrAJTXrxA__JT,r%,}TTWA,%%xJT,I%hWI,l%JWWXl%Rhr}3J_,J}X%W,_}JWXX!}_WJXX%kTXXJ%hI<X_%JIXhsa8A8hXeAI_hTNXlAh_>WlXRXX8lJRXAP_ARJAh_DrYX}_Xr2A_}IrX8A__rJh_T?rT8JThJa8_TJJIWIT_JW,X}_J_,W}XWA,_}__IXa}_WJho%kWTXJ!R_=X_%WIXhl%_IJhXA88XhJwRl)RhaJlXRDo_llRXAAl_RIAX_AR_A_%IrMA__JWR8{_TrJ8XAJr_8WTXJA8_TJJXX8,AJJ,R}BWX,J}XWsX}%rWXX,}_WlXX%YW_XJ#II5hG%JIhhQ%_IJhXAII_hlKXlXh_aJlXR4A}lJRhA?l_RJAh_Yr},J_Xr8A__}rX8*__WJh%Tjr}8JTRJL8}TJWRXJT_J_,X}rJ_,J}XW1h,}JWRXp%=WJXR%5l_hI%XI8X_%IIXhh%__JRl 4I}hJjRltRJqJTXR}a_lIRXA8l_rRAX}PJRAJ_RrPA}_Jr}8oT}WJ8XTXr_,hTXJu8_TJ%r,v}AJJ,h}DJ_,J}XII,_}_WXXh}_WJXX%BI_XJ%RIFX_%JIhhQm}lAhXz8I_h_vXlSh_8JlIRL{}lJRRAKlTRJAXTlR_AI_XrAA__WrX8X}hrJ8XTerT8JThJ08_}lJX,gT_JW,X}EJ_,W}XW!,_}JI{XL}_WJXX%lW_XJ%X},lJhWHTlTA_}ll_RhA%__&XlXh_6JlX_rRT8h_WA+_8RJAX_w}AJR,XTAr%,,rX8___rJ8XAW}IW}X,}lWA8l}WI8h8}TIR}MWT,J}XW)J}XTbXI_hh%lIhRXeAI_XrAXllRIahlrRAIJh}POI_hJXJAA_hrX8TI,rXATTrJXl_RTAX_3R_RJ8h}iJA,IrX8X__rJ8X8X}AIaXJJ.,8TJJX,b8}}TWhXX2hhW}XWI,_}JWXJrhA{_Wrhhc}l}hT/,lA%JIlhy%_IJIRRhAW_rrJAh_%GJ_XRFg_lJ_,R%8}_TJA8%}yrT8I}hJI8l}JJW,l}R,WTvr_8JTXlJ8_TJJX,{T_JJ,Xk*lX,J}XWS,_}JW_XHA8I%XX%ZW_h_%XIAX_ AIXhX,8IJhXSv_dhJ=hlLh_h{lXRS2_lIRXAyl_rIJ__3RTAJ_hr6A__JJRWJ__rI8XTRr_8JTXJ1IlTJJX,)T}JJ,h}aW}hJ}XWA,_}IWXX/}_lJr%%3WTXJ%hI*hR%JlRRX%_IlhXmhI_hJ*XlErRMJlhRcu%lJRRAQT_J8AX_AR_AW_XrrA_}JJJ8Y_TrJ8hT.Jr8J%XJA8_TWJX,AT_WX,Xd<WR,J}hWw,T}JWJXg%}lJXX%,W_Xl%XINX_%JAAh.-4IJhXH.I_hJDX8Ih_KllXRXQ_lJRXA T8RJAh_!R_AJ_hr+A_TlrX80__rW8XTPr_8JTXJU8_TJJr,kT_JJ,X}hJ_,J}XaXWTXI44Ih}TWJXX%iW_XJ%XW0Jl%JIIhy%_IJ_JrWA_lTr,ARRIBJlXReA}TJRXAAl_RlAX_pR_AJ,ArpA}_JrX8y__rJ8X}rr_8WTXJ88_TIJXhR}IJJ,h}=W8,J}hWa,T}JWJrR}_WJXX%RW_XW%XIXJ8%JIXhGKhIJhhB{___X#XlAh_sJlXR8w_l}_}AelTRJA}_!RTAJ_hr!8*%}rX8b__J88XTAr_8JXAJg8TTJJX,;T_JJ,XAJJ_,I}XWA,_}JWXX*hTWJXR%MW}XJ%hI.X_RAIXh8%_IJhXcZI_hJArl:h_iJlhRHp_lJRhA*l_RJAX_8R_AJ_Xr<8r_JrX8jAW}rJJ,W}8IA8J}JWAXh}W,AT_JJ,X}UJ_,JTX_%Xh}JWXXo}_TBXX%AW_XJ%XI/X_AJAsh?%TIJhh+iIThJ8XA_h_-IlXRb3_lIRXAR{RRJAR_6r8AJ_hryA__JrJhR__rJ8XTRr_8WTXJXR8TJJX,z},JJ,h}7J_Ih}XW8,_}JWXXG}_WJXr%gWTXJ%RIyXT%JIXR,%_IJhX+AI_hJBXlAh_uJlXR)AhlJRXAbl_r8AX_gR_R-8h}Xr%,P_rW{,ATTJJT9JX8JTXJ1rA,%}lJ,hf}WIJh,J_,T}XW),_,}%hI_RA%TXX%XW_XJ%X}}ITRh.WhF/#IJhXm.A,lWrAAhh_bTlXRqS_5lTJrA,7TlAX_}R_AJ_XlRJh,RTJRR,h}IWrXXl%Wm,T}_WVTJWh,3T_JJJRXh%_IXXT%,WTh_%WIX,%g_l,R8%TI%hWImhR%JIXhHX,9T_Jh,AA_IrIAWl%RT_}R ._lJrRAVl_RWAX_hR_AJ_XWq8J_Jrh8H_TrJ8TTfJ}XhTXJ,8_}vJX,kT_JJXJ}UJT,J}rWE,}}JlXXI}_WWXX%AW_X}%X_yhI%JIhh{%TIJhl6=I_RX9Xl,h_iJlXR<E_TJTzAml%RJAr_SrSAJ_XlWA__WrX8,__rI8XTR_R8JThJ*XhTJJh,3T_JJ,JARJ_,J}XIW,_}WWXRw%XWJXR%DWTXJ%lI7h}rxIXhX%_IIhX?oI_hJXTlLh}5JlJRg0}lJRIhIl_RIAXTWR_AW_Xr1A___II8a__rJ,TTwrT8J%X}_8_TIJX,AT_JI,X/2WX,J}RWU,}}JWlXE%}AyXX%XW_XW%XIbX_%J}Th<%}IJhJ<?I}hJ;I%Ih_pIlXrWd_lWRXAQl_R_XI_7R_AJTTr/AT_JWXJ___rI8XTAr_8ITXI5WJTJJR,9T}JJ,h}EW_h8}XW8,_}lWXXs}_WJhr%4W_XJ%hIDX_%JIhh;%_IJhX.II_hJyXl2R,UJlXRkJA8J_JrA,>_TXW_7rrAJ_XrGR}8TTJJh,A}hXXA,}lJ_,WJ6,)TJJX,!X,}WIAXhJ_,T}XW4,_,J%hl9hAnIXX%_W_XJ%X}WlIR}A,llRA%llWr888lTrRl=RR:JlXRnh,ATTJR,8ATIJI8W_%rT_XrRA__JrXWh,I}JJh,,}r8J}hJi8_TJTRWhX_%XWTX,}TI_XW%XJ%h_<,l8XT%%IW%9I_XJ%XIvIlhrARlhRWAr_JRhA8_Tr8A,TSrA8,_}=_l%RXA3l_lIrW8TTlJ_8W},8T_JrX8j__T_8XTqr_8ITXJ?8_}IJ%, TTJJ,R}eJ_,J%RWI,_}IWXXA}_WJXX%OI}XJ%XICX}%JIhhjU}_JhX)AI_hl5Xldh_8J}%RmVTlJRhAw_8RJ8R_TR_Al_XrJA__JrX81TlrJ8hT/r%8JTRJwX_}rJX,AT_JW,X}XJ_hJ{bWL,T}JWhXc%RWJRX ,W_XW%XIAX_zAIXriw2IJhh99IThJYWlKR}r%lXR,g_l%RXAal_RJ,;_orqAJ_XrtA__JrX8r__rl8XTXr_8JTXJ7,8TJJh,bT_JJ,h}KJ_X%}XWw,_}WWXXE}_WJXX%LW_XJ%%IgX_%JIXhW%_IJhXX88A__rJA%_I,IzWTOUTlJRXA!l_RJAXl4IlAJ_rr>A__J}8JhX,rJ8JTgr_8JXJ}AW%X,Jh,kT_JJ,X}!J_,J}XWvX,}JWXXYX8%TIrRX{llI8RIqhW%JIXhz,%AT_Rr8AA_RrJ%,lTrhAWT8RTlJRTA^l_RJJl8%T}J,,r}0rT8lTW8ETLrJ8XTw%,JW,T%X8_},JX,1T__IIWhXp^Irh8_8J:hrQlI}}_W}XX%mW_Jl,IA8ITRh1WRl%_IJhX)BTWhJNXldh_jJlXR58__WRXA=l_RJAX_IR_8I_WrBA}_JrI80__rJXXTWr_8ITXJ88_TlJXX8}TJJ,r}VWA,J}XWSX}}_WXXX}_WTXX%jW_XJ3_IuX}%JIJhy%}IJRR8fI_hlPXlJh_<JlXJEAalJRrA l%RJAl_/J_8l_Xr,A__lrX8l__rJ,ITsr_8JTrJb8TTJWR,JT_JJ,X}XJ_,J}Xl5hX}JWXXG}_WJXT%dI}Rh%XIAX_%IIXhO%_IJRJ2GI_hJKRl3hTfJlXJT3_lJRXA6l_RJAX}GrXAJ_XrPA__Jrh8nT}Jq8XT8r_8}TXJv8_%JW,,2T}JJ,R}nJ%,J%RIz,_}lWXXh}_WJXX58lWXJ%JIzhA%JIXhy%_IlhXY8I_h_.Xl8h_AIT,R/<%lJR_Aol_RJ,X_8R_Al_Xr,A__%rXX1TArJ8rT;r%8JT%J68_}TJX,1T_Jl,X}AJ_,J}IW1,_}JWhXa}_WJXX%jW_XJ%XIIX_%JIXhoVRIJhX!f%,lTrJZ,_ArI8I_WR%ATRXAll_RJAXA8TAr_8WThJW}JlrJ%,vTT8XTrr_8JTX%hW_,_}hIXXAlI,X%9J_,J}X}%WlhI%WIThlH_IWhRAAlRhrAXlhRrA8h;08IJhX9G8A_RrXAAl%r,lXRr!_lJRXR88AThJ,,XTAJl_XrXA__JrXJr8T}hJWT6JA8JTXJ&r_,W%XWhX}JJXh}5J_,J,R%hI_hX%TI,XTf_IWhX}%l_R,A8ITh%PWhnkJIJhX4*%h_RrIA%_rRT6r_hr}8}_WJ8_TRJAX_zR_r__XrNA__IrX87__JI,}TzrT8JTRJP8_TJWR,WT_JI,X},J_,J}XW4hA}JWXXu}}WJXh%1I}RJ%XIAX_%%IXh4%__JJ%okIThJyhlmhTZJ_RR,M_llRXAWl_RJAX_+rhAJ_hr:A%_JrR8.}_WA8XTAr_8WTXJJ8_%JJh,^TTJJ,h}iW8,JEXIr,_}WWXXA}_W_XXA)lrXJ%hIiXT%JI}heq}A%hXi,I_hT#Xl+h_EJllRKA6lJRXAil_RJAX_lR_Al_XrXA__JrX8z_}rJ8hTHr_8JThJx8_T_JX,GT_JW,X}LJ_,J}XW2,_}JW}XH}_WJXXOAW_XJ%X%8lARJA^lWh% W_JRhA3IlrJA%_}RWAl_ha_l}RXAYl_TTJ8,#_Trl8%rs8R_JrX8vA,TTWJ8,}AWIXI}WJ%,TJX,lT_JJ,X,8%AW_XW%hIWHJTrI%h!%TXX%XW_XJ%XErITRhfWhgZ_IJhXGPYllrrRAh_Wrr8J_hr88TT8r,,<TAJ,8}R_AT_XriA_AJThWf,A}I8XTrr_8JTXT8WAXh%,IXXA%l,X}rJ_,J}XehI_X_%hlXhA_lXX%_W_XJ%X}WlIR}A,llRA%llWr888lTrR_Ah_vJlXRPrYlJRXAwl}RJAX_3r}8)_XrAA___rX8-__JI,ATkr}8JTTJ98_TJJXX_T_JJ,X}8J_,W}XI8h_}JWhXo%AWJXX%>l_J,%XIAX_%WIXh,%_lIRRzpI%hJmhlYh_^JlXrT-_lWRXA,l_RIAX}CJhAJ_hriAT_Jrl8*}_J}8XTAr_8WTXJJ8_%JW},ETTJJ,h}uW8,JNXIA,_}WWXXA}_I8XX58A,XJ%rI^X}%JIXh<%_lBhX;XI_hJ=Xl6h_FJl%R&k%lJRJAal_RJAXTlR_AW_XraA__WrX8nTrrJ8XTLrT8JTXJu8_TJJX,mT_';WoJhZWLjrtiEEjlMo='_{lip=5ygI>^(8q15(=I5l=8=pp>1qi5i1ill{l({^{^{p(g *(e^(^5^N>=ql81(8(=(>yg(5gy^l>1I8I=I>pgIp=ygly1585=5>{g=>ly=lp1i8i=i>qgl{1yll{1)8.=W>^g1i(y1lq1888=8>gg(5Iy(l^1>8>=>>=gIy5I=g=p=ip=pipi5q5^=I={=5Zpp({=El-yill1{8{={>(gvq8I{{r8(=1^q5q{8q8{g5(qI5g>g{y>5l>->==PIg5{g(pipipyy85g5i52=iWg=n{g*5pg1(181=8g{i{>H>(o11^I^qXw^5^p8(8{>5Ip85g>g5gi>>5tIq>ipqI5=1g>p{p{l>5Ii^l9=y{I{1{=Di1IP{1q1y1pq^8w{5{iu{1I1q>(1=^8qgI18igg(^(lyq^=51yp^55^5iI:=(pI=g={iqguiiip=^=lJ>=gp5i8pKq(l^18ql{I8^8g{>(q1I1{^i>I>q128p>=((I=y>(^^5^{>q>{=5Iq55=pI5p>piy{l55{5g=g,qp8Rym(pqiiellI1>qgl>ql8>8y^>1g18>g14^IqpI^I^gp(iI=y>^{y{y{5>5=5{={pyp8p^pIi1i>{q5p5{p1pyp(1>iio^i5q8l{85{I{R((wi^8(l)p^y^y^!>(Iy>pIl8p^g^lyq5p^l>vIyI>p5g==yi(yii=ilyp=>{IM1{p=5/qi=kJq5l(lI{y31{p(lc{8i(i^q^5^M>8Il8=((g:(g(i(l5g>qIyI^g8Iqg(gig5ilyg5{5==yi{{q5&{i1(p>P8p=p{1I{8lb{*(5B=35wy1i1{qgI(8^I=I(qlI^ggyl(c>q>=>g=pIi5=p>g{p{p&gli5=1lq{^{{{5=g{dV>l1l(qllgl={is^{z^q18(1({^5^+>^Ip8y(qgl(>(=(p5>^eIII8g1><gqg=ggipy>5i5y=Iiil65l{=1qi8pAizq5l=l5ly{i(gcy8I^q1=^y^p15>I85I(g1g=g>((g=yqyIy==5Iq5yIlpIpIilygy=5i=^5Ceqp8{1{l6(&{v{1(8ql{{g
+if game.PlaceId == 82013336390273 then
+
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+local Window = Rayfield:CreateWindow({
+    Name = "lll HUB | Piackaxe Simulator",
+    Icon = 0,
+    LoadingTitle = "loading",
+    LoadingSubtitle = "by Thanetnat",
+    ShowText = "lll HUB",
+    Theme = "Default",
+
+    ToggleUIKeybind = "K",
+    DisableRayfieldPrompts = false,
+    DisableBuildWarnings = false,
+
+    ConfigurationSaving = {
+        Enabled = false,
+        FolderName = nil,
+        FileName = "lll Hub"
+    },
+
+    Discord = {
+        Enabled = false,
+        Invite = "noinvitelink",
+        RememberJoins = true
+    },
+
+    KeySystem = false,
+    KeySettings = {
+        Title = "kuyton",
+        Subtitle = "Key System",
+        Note = "get key from i ton",
+        FileName = "Key",
+        SaveKey = true,
+        GrabKeyFromSite = false,
+        Key = {"Hello"}
+    }
+})
+
+-- Vars
+local ClaimAllCode = false
+local AutoChest = false
+local selectRebirthValue = nil
+local isAutoRebirth = false
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+local TimeDaily = workspace.Chests.DailyChest.UI.GUI.Timer
+local TimeGroup = workspace.Chests.GroupChest.UI.GUI.Timer
+
+-- Functions
+local function Daily()
+    if TimeDaily.Text == "Ready!" then
+        local args = {"Claim Chest", "DailyChest"}
+        game:GetService("ReplicatedStorage").Paper.Remotes.__remotefunction:InvokeServer(unpack(args))
+    end
+end
+
+local function Group()
+    if TimeGroup.Text == "Ready!" then
+        local args = {"Claim Chest", "GroupChest"}
+        game:GetService("ReplicatedStorage").Paper.Remotes.__remotefunction:InvokeServer(unpack(args))
+    end
+end
+
+local function code2()
+    local args = {"Redeem Code", "update2"}
+    game:GetService("ReplicatedStorage").Paper.Remotes.__remotefunction:InvokeServer(unpack(args))
+end
+
+local function code3()
+    local args = {"Redeem Code", "update3"}
+    game:GetService("ReplicatedStorage").Paper.Remotes.__remotefunction:InvokeServer(unpack(args))
+end
+
+local function code4()
+    local args = {"Redeem Code", "update4"}
+    game:GetService("ReplicatedStorage").Paper.Remotes.__remotefunction:InvokeServer(unpack(args))
+end
+
+local function code5()
+    local args = {"Redeem Code", "update5"}
+    game:GetService("ReplicatedStorage").Paper.Remotes.__remotefunction:InvokeServer(unpack(args))
+end
+
+-- Rebirth List
+local RebirthLists = {
+    ["+1 Rebirth"] = "1",
+    ["+5 Rebirth"] = "2",
+    ["+20 Rebirth"] = "3",
+    ["+50 Rebirth"] = "4",
+    ["+100 Rebirth"] = "5",
+    ["+250 Rebirth"] = "6",
+    ["+500 Rebirth"] = "7",
+    ["+1k Rebirth"] = "8",
+    ["+2.5k Rebirth"] = "9",
+    ["+5k Rebirth"] = "10",
+    ["+10k Rebirth"] = "11",
+    ["+25k Rebirth"] = "12",
+    ["+50k Rebirth"] = "13",
+    ["+100k Rebirth"] = "14",
+    ["+250k Rebirth"] = "15",
+    ["+500k Rebirth"] = "16",
+    ["+1M Rebirth"] = "17",
+    ["+2.5M Rebirth"] = "18",
+    ["+10M Rebirth"] = "19",
+    ["+25M Rebirth"] = "20",
+    ["+100M Rebirth"] = "21",
+    ["+1B Rebirth"] = "22",
+    ["+50B Rebirth"] = "23",
+    ["+500B Rebirth"] = "24",
+    ["+1T Rebirth"] = "25",
+    ["+100T Rebirth"] = "26",
+    ["+1Qd Rebirth"] = "27",
+    ["+50Qd Rebirth"] = "28",
+    ["+500Qd Rebirth"] = "29",
+    ["+2.5Qn Rebirth"] = "30",
+    ["+50Qn Rebirth"] = "31",
+    ["+500Qn Rebirth"] = "32",
+    ["+5Sx Rebirth"] = "33",
+    ["+100Sx Rebirth"] = "34",
+    ["+1Sp Rebirth"] = "35",
+    ["+50Sp Rebirth"] = "36"
+}
+
+local MainTab = Window:CreateTab("Main", 4483362458)
+local Section = MainTab:CreateSection("Auto Rebirth")
+local SettingTab = Window:CreateTab("Setting", 4483362458)
+
+local Dropdown = MainTab:CreateDropdown({
+    Name = "Select Rebirth",
+    Options = {
+        "+1 Rebirth","+5 Rebirth","+20 Rebirth","+50 Rebirth",
+        "+100 Rebirth","+250 Rebirth","+500 Rebirth","+1k Rebirth",
+        "+2.5k Rebirth","+5k Rebirth","+10k Rebirth","+25k Rebirth",
+        "+50k Rebirth","+100k Rebirth","+250k Rebirth","+500k Rebirth",
+        "+1M Rebirth","+2.5M Rebirth","+10M Rebirth","+25M Rebirth",
+        "+100M Rebirth","+1B Rebirth","+50B Rebirth","+500B Rebirth",
+        "+1T Rebirth","+100T Rebirth","+1Qd Rebirth","+50Qd Rebirth",
+        "+500Qd Rebirth","+2.5Qn Rebirth","+50Qn Rebirth","+500Qn Rebirth",
+        "+5Sx Rebirth","+100Sx Rebirth","+1Sp Rebirth","+50Sp Rebirth"
+    },
+    CurrentOption = {"+1 Rebirth"},
+    MultipleOptions = false,
+    Flag = "Dropdown1",
+    Callback = function(option)
+        local selectedName = typeof(option) == "table" and option[1] or option
+        selectRebirthValue = RebirthLists[selectedName]
+    end
+})
+
+local Toggle = MainTab:CreateToggle({
+    Name = "Auto Rebirth Selected",
+    CurrentValue = false,
+    Callback = function(Value)
+        isAutoRebirth = Value
+
+        while isAutoRebirth do
+            if not selectRebirthValue then
+                print("เลือกจำนวน Rebirth ก่อน")
+                break
+            end
+
+            local args = {"Rebirth", tonumber(selectRebirthValue)}
+            game:GetService("ReplicatedStorage").Paper.Remotes.__remotefunction:InvokeServer(unpack(args))
+
+            task.wait()
+        end
+    end,
+})
+
+local Section = MainTab:CreateSection("Auto Claim")
+
+local ToggleClaim = MainTab:CreateToggle({
+    Name = "Auto Claim Chests",
+    CurrentValue = false,
+    Callback = function(state)
+        AutoChest = state
+        while AutoChest do
+            Daily()
+            Group()
+            task.wait()
+        end
+    end,
+})
+
+local ToggleClaim2 = MainTab:CreateToggle({
+    Name = "Claim All Code",
+    CurrentValue = false,
+    Callback = function(Val)
+        ClaimAllCode = Val
+        if ClaimAllCode then
+            code2()
+            code3()
+            code4()
+            code5()
+        end
+    end,
+})
+
+local Section = MainTab:CreateSection("Change Speed")
+
+local MiningSlider = MainTab:CreateSlider({
+    Name = "Mining Speed",
+    Range = {1, 10},
+    Increment = 1,
+    Suffix = "x",
+    CurrentValue = 1,
+    Callback = function(Value)
+        local stats = game:GetService("ReplicatedStorage").Stats:FindFirstChild(player.Name)
+        if stats and stats:FindFirstChild("MiningSpeedBoost") then
+            stats.MiningSpeedBoost.Value = Value
+        end
+    end,
+})
+
+local HatchSlider = MainTab:CreateSlider({
+    Name = "Hatch Speed",
+    Range = {1, 7},
+    Increment = 1,
+    Suffix = "x",
+    CurrentValue = 1,
+    Callback = function(Value)
+        local stats = game:GetService("ReplicatedStorage").Stats:FindFirstChild(player.Name)
+        if stats and stats:FindFirstChild("EggStats") and stats.EggStats:FindFirstChild("HatchSpeed") then
+            stats.EggStats.HatchSpeed.Value = Value
+        end
+    end,
+})
+
+local Section = SettingTab:CreateSection("Change Theme")
+
+local ThemeDropdown = SettingTab:CreateDropdown({
+    Name = "Select Theme",
+    Options = {"Default","Amethyst","Bloom","Green","Light","Ocean","Serenity"},
+    CurrentOption = {"Default"},
+    MultipleOptions = false,
+    Callback = function(opt)
+        Window.ModifyTheme(opt[1] or opt)
+    end,
+})
+
+local Section = SettingTab:CreateSection("Close Ui")
+
+local DestroyButton = SettingTab:CreateButton({
+    Name = "Destroy Gui",
+    Callback = function()
+        Rayfield:Destroy()
+    end,
+})
+
+---------------------------------------------------------
+--  Anti AFK
+---------------------------------------------------------
+local vu = game:GetService("VirtualUser")
+player.Idled:Connect(function()
+    vu:Button2Down(Vector2.new(0,0), workspace.CurrentCamera.CFrame)
+    task.wait(1)
+    vu:Button2Up(Vector2.new(0,0), workspace.CurrentCamera.CFrame)
+end)
+
+Rayfield:LoadConfiguration()
+
+end
+
