@@ -222,8 +222,6 @@ local ToggleClaim = MainTab:CreateToggle({
                 :WaitForChild("Remotes")
                 :WaitForChild("__remotefunction")
                 :InvokeServer(unpack(args1))
-
-                print("Claimed: DailyChest")
             end
 
             task.wait(0.3)
@@ -239,8 +237,6 @@ local ToggleClaim = MainTab:CreateToggle({
                 :WaitForChild("Remotes")
                 :WaitForChild("__remotefunction")
                 :InvokeServer(unpack(args))
-
-                print("Claimed: GroupChest")
             end
 
             task.wait(3) -- เช็คทุก 3 วิ (ไม่แลค)
@@ -251,13 +247,13 @@ local ToggleClaim = MainTab:CreateToggle({
     Name = "1 Click for 1 Codes",
     Callback = function()
       code2()
-      print("Code2")
+      
       code3()
-      print("Code3")
+      
       code4()
-      print("Code4")
+      
       code5()
-      print("Code5")
+      
     end,
 })
 
