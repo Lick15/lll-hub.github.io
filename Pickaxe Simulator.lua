@@ -1,4 +1,3 @@
-
 if game.PlaceId == 82013336390273 then
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
@@ -337,3 +336,4 @@ local DestroyButton = SettingTab:CreateButton({
 })
 
 end
+
