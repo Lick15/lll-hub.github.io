@@ -43,7 +43,39 @@ local Window = Rayfield:CreateWindow({
   local isAutoRebrith = false
   local Players = game:GetService("Players")
   local player = Players.LocalPlayer
- --local list 
+  
+  -- funftion 
+  local function code2()
+    local args = {
+      "Redeem Code",
+      "Update2"
+    }
+    game:GetService("ReplicatedStorage"):WaitForChild("Paper"):WaitForChild("Remotes"):WaitForChild("__remotefunction"):InvokeServer(unpack(args))
+  end
+  local function code3()
+    local args = {
+      "Redeem Code",
+      "Update3"
+    }
+    game:GetService("ReplicatedStorage"):WaitForChild("Paper"):WaitForChild("Remotes"):WaitForChild("__remotefunction"):InvokeServer(unpack(args))
+  end
+  local function code4()
+    local args = {
+      "Redeem Code",
+      "Update4"
+    }
+    game:GetService("ReplicatedStorage"):WaitForChild("Paper"):WaitForChild("Remotes"):WaitForChild("__remotefunction"):InvokeServer(unpack(args))
+  end
+  local function code5()
+    local args = {
+      "Redeem Code",
+      "update5"
+    }
+    game:GetService("ReplicatedStorage"):WaitForChild("Paper"):WaitForChild("Remotes"):WaitForChild("__remotefunction"):InvokeServer(unpack(args))
+  end
+  
+ --local list
+  
   local RebrithLists = {
     ["+1 Rebrith"] = "1",
     ["+5 Rebrith"] = "2",
@@ -181,7 +213,10 @@ local ToggleClaim = MainTab:CreateToggle({
         while autoClaim do
             -- Daily chest
             if canClaim("DailyChest") then
-                local args1 = {"Claim Chest", "DailyChest"}
+                local args1 = {
+                  "Claim Chest", 
+                  "DailyChest"
+                }
                 game:GetService("ReplicatedStorage")
                 :WaitForChild("Paper")
                 :WaitForChild("Remotes")
@@ -195,7 +230,10 @@ local ToggleClaim = MainTab:CreateToggle({
 
             -- Group chest
             if canClaim("GroupChest") then
-                local args2 = {"Claim Chest", "GroupChest"}
+                local args = {
+                  "Claim Chest", 
+                  "GroupChest"
+                }
                 game:GetService("ReplicatedStorage")
                 :WaitForChild("Paper")
                 :WaitForChild("Remotes")
@@ -209,36 +247,19 @@ local ToggleClaim = MainTab:CreateToggle({
         end
     end,
 })
-  
   local Button = MainTab:CreateButton({
-    Name = "Claim All Codes",
+    Name = "1 Click for 1 Codes",
     Callback = function()
-
-        local Codes = {
-            "Update2",
-            "Update3",
-            "Update4",
-            "Update5"
-        }
-
-        for _, code in ipairs(Codes) do
-            local args = {
-                "Redeem Code",
-                Code
-            }
-
-            game:GetService("ReplicatedStorage")
-                :WaitForChild("Paper")
-                :WaitForChild("Remotes")
-                :WaitForChild("__remotefunction")
-                :InvokeServer(unpack(args))
-
-            task.wait(0.2)
-        end
-
+      code2()
+      print("Code2")
+      code3()
+      print("Code3")
+      code4()
+      print("Code4")
+      code5()
+      print("Code5")
     end,
 })
-
 
   
   local Section = MainTab:CreateSection("Change Speed")
