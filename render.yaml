@@ -1,1 +1,21 @@
+import express from "express";
+import fetch from "node-fetch";
+
+const app = express();
+const TOKEN = "GHSAT0AAAAAADQXRVEZUGEKAEVD7XQWFA722JULQLQ"; 
+
+app.get("/script", async (req, res) => {
+    const url = "https://raw.githubusercontent.com/Lick15/lll-hub.github.io/main/Pickaxe%20Simulator.lua";
+
+    const response = await fetch(url, {
+        headers: {
+            Authorization: `token ${TOKEN}`
+        }
+    });
+
+    const text = await response.text();
+    res.send(text);
+});
+
+app.listen(10000, () => console.log("Proxy Running"));
 
