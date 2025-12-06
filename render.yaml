@@ -1,6 +1,0 @@
-services:
-  - type: worker
-    name: lllhub-pickaxe
-    env: docker
-    plan: free
-    autoDeploy: true
